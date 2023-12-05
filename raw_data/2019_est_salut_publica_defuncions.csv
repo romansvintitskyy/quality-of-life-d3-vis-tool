@@ -1,0 +1,741 @@
+"Anys_Periode","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Nombre"
+"2006-2010",1,"Ciutat Vella",1,"el Raval",1636
+"2006-2010",1,"Ciutat Vella",2,"el Barri Gòtic",669
+"2006-2010",1,"Ciutat Vella",3,"la Barceloneta",748
+"2006-2010",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera",823
+"2006-2010",2,"Eixample",5,"el Fort Pienc",1204
+"2006-2010",2,"Eixample",6,"la Sagrada Família",2215
+"2006-2010",2,"Eixample",7,"la Dreta de l'Eixample",2357
+"2006-2010",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample",1881
+"2006-2010",2,"Eixample",9,"la Nova Esquerra de l'Eixample",2267
+"2006-2010",2,"Eixample",10,"Sant Antoni",1694
+"2006-2010",3,"Sants-Montjuïc",11,"el Poble Sec",1547
+"2006-2010",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell",189
+"2006-2010",3,"Sants-Montjuïc",13,"la Marina de Port",855
+"2006-2010",3,"Sants-Montjuïc",14,"la Font de la Guatlla",369
+"2006-2010",3,"Sants-Montjuïc",15,"Hostafrancs",625
+"2006-2010",3,"Sants-Montjuïc",16,"la Bordeta",606
+"2006-2010",3,"Sants-Montjuïc",17,"Sants - Badal",817
+"2006-2010",3,"Sants-Montjuïc",18,"Sants",1591
+"2006-2010",4,"Les Corts",19,"les Corts",1733
+"2006-2010",4,"Les Corts",20,"la Maternitat i Sant Ramon",787
+"2006-2010",4,"Les Corts",21,"Pedralbes",402
+"2006-2010",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes",192
+"2006-2010",5,"Sarrià-Sant Gervasi",23,"Sarrià",844
+"2006-2010",5,"Sarrià-Sant Gervasi",24,"les Tres Torres",476
+"2006-2010",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova",1014
+"2006-2010",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany",1903
+"2006-2010",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró",974
+"2006-2010",6,"Gràcia",28,"Vallcarca i els Penitents",622
+"2006-2010",6,"Gràcia",29,"el Coll",226
+"2006-2010",6,"Gràcia",30,"la Salut",607
+"2006-2010",6,"Gràcia",31,"la Vila de Gràcia",2284
+"2006-2010",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova",1359
+"2006-2010",7,"Horta-Guinardó",33,"el Baix Guinardó",998
+"2006-2010",7,"Horta-Guinardó",34,"Can Baró",360
+"2006-2010",7,"Horta-Guinardó",35,"el Guinardó",1380
+"2006-2010",7,"Horta-Guinardó",36,"la Font d'en Fargues",386
+"2006-2010",7,"Horta-Guinardó",37,"el Carmel",1065
+"2006-2010",7,"Horta-Guinardó",38,"la Teixonera",405
+"2006-2010",7,"Horta-Guinardó",39,"Sant Genís dels Agudells",287
+"2006-2010",7,"Horta-Guinardó",40,"Montbau",442
+"2006-2010",7,"Horta-Guinardó",41,"la Vall d'Hebron",175
+"2006-2010",7,"Horta-Guinardó",42,"la Clota",19
+"2006-2010",7,"Horta-Guinardó",43,"Horta",1203
+"2006-2010",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta",1019
+"2006-2010",8,"Nou Barris",45,"Porta",970
+"2006-2010",8,"Nou Barris",46,"el Turó de la Peira",743
+"2006-2010",8,"Nou Barris",47,"Can Peguera",130
+"2006-2010",8,"Nou Barris",48,"la Guineueta",651
+"2006-2010",8,"Nou Barris",49,"Canyelles",225
+"2006-2010",8,"Nou Barris",50,"les Roquetes",523
+"2006-2010",8,"Nou Barris",51,"Verdun",503
+"2006-2010",8,"Nou Barris",52,"la Prosperitat",896
+"2006-2010",8,"Nou Barris",53,"la Trinitat Nova",392
+"2006-2010",8,"Nou Barris",54,"Torre Baró",92
+"2006-2010",8,"Nou Barris",55,"Ciutat Meridiana",268
+"2006-2010",8,"Nou Barris",56,"Vallbona",51
+"2006-2010",9,"Sant Andreu",57,"la Trinitat Vella",247
+"2006-2010",9,"Sant Andreu",58,"Baró de Viver",115
+"2006-2010",9,"Sant Andreu",59,"el Bon Pastor",395
+"2006-2010",9,"Sant Andreu",60,"Sant Andreu",1881
+"2006-2010",9,"Sant Andreu",61,"la Sagrera",916
+"2006-2010",9,"Sant Andreu",62,"el Congrés i els Indians",667
+"2006-2010",9,"Sant Andreu",63,"Navas",776
+"2006-2010",10,"Sant Martí",64,"el Camp de l'Arpa del Clot",1417
+"2006-2010",10,"Sant Martí",65,"el Clot",849
+"2006-2010",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou",464
+"2006-2010",10,"Sant Martí",67,"la Vila Olímpica del Poblenou",123
+"2006-2010",10,"Sant Martí",68,"el Poblenou",1115
+"2006-2010",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou",267
+"2006-2010",10,"Sant Martí",70,"el Besòs i el Maresme",853
+"2006-2010",10,"Sant Martí",71,"Provençals del Poblenou",630
+"2006-2010",10,"Sant Martí",72,"Sant Martí de Provençals",1098
+"2006-2010",10,"Sant Martí",73,"la Verneda i la Pau",1163
+"2006-2010",99,"No consta",99,"No consta",16505
+"2007-2011",1,"Ciutat Vella",1,"el Raval",2000
+"2007-2011",1,"Ciutat Vella",2,"el Barri Gòtic",836
+"2007-2011",1,"Ciutat Vella",3,"la Barceloneta",925
+"2007-2011",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera",1019
+"2007-2011",2,"Eixample",5,"el Fort Pienc",1499
+"2007-2011",2,"Eixample",6,"la Sagrada Família",2765
+"2007-2011",2,"Eixample",7,"la Dreta de l'Eixample",2896
+"2007-2011",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample",2323
+"2007-2011",2,"Eixample",9,"la Nova Esquerra de l'Eixample",2806
+"2007-2011",2,"Eixample",10,"Sant Antoni",2100
+"2007-2011",3,"Sants-Montjuïc",11,"el Poble Sec",1912
+"2007-2011",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell",207
+"2007-2011",3,"Sants-Montjuïc",13,"la Marina de Port",1092
+"2007-2011",3,"Sants-Montjuïc",14,"la Font de la Guatlla",494
+"2007-2011",3,"Sants-Montjuïc",15,"Hostafrancs",776
+"2007-2011",3,"Sants-Montjuïc",16,"la Bordeta",777
+"2007-2011",3,"Sants-Montjuïc",17,"Sants - Badal",1013
+"2007-2011",3,"Sants-Montjuïc",18,"Sants",2009
+"2007-2011",4,"Les Corts",19,"les Corts",2154
+"2007-2011",4,"Les Corts",20,"la Maternitat i Sant Ramon",974
+"2007-2011",4,"Les Corts",21,"Pedralbes",494
+"2007-2011",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes",235
+"2007-2011",5,"Sarrià-Sant Gervasi",23,"Sarrià",1114
+"2007-2011",5,"Sarrià-Sant Gervasi",24,"les Tres Torres",580
+"2007-2011",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova",1264
+"2007-2011",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany",2363
+"2007-2011",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró",1214
+"2007-2011",6,"Gràcia",28,"Vallcarca i els Penitents",777
+"2007-2011",6,"Gràcia",29,"el Coll",270
+"2007-2011",6,"Gràcia",30,"la Salut",739
+"2007-2011",6,"Gràcia",31,"la Vila de Gràcia",2813
+"2007-2011",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova",1680
+"2007-2011",7,"Horta-Guinardó",33,"el Baix Guinardó",1312
+"2007-2011",7,"Horta-Guinardó",34,"Can Baró",440
+"2007-2011",7,"Horta-Guinardó",35,"el Guinardó",1731
+"2007-2011",7,"Horta-Guinardó",36,"la Font d'en Fargues",470
+"2007-2011",7,"Horta-Guinardó",37,"el Carmel",1296
+"2007-2011",7,"Horta-Guinardó",38,"la Teixonera",500
+"2007-2011",7,"Horta-Guinardó",39,"Sant Genís dels Agudells",357
+"2007-2011",7,"Horta-Guinardó",40,"Montbau",547
+"2007-2011",7,"Horta-Guinardó",41,"la Vall d'Hebron",227
+"2007-2011",7,"Horta-Guinardó",42,"la Clota",25
+"2007-2011",7,"Horta-Guinardó",43,"Horta",1500
+"2007-2011",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta",1308
+"2007-2011",8,"Nou Barris",45,"Porta",1186
+"2007-2011",8,"Nou Barris",46,"el Turó de la Peira",926
+"2007-2011",8,"Nou Barris",47,"Can Peguera",153
+"2007-2011",8,"Nou Barris",48,"la Guineueta",824
+"2007-2011",8,"Nou Barris",49,"Canyelles",294
+"2007-2011",8,"Nou Barris",50,"les Roquetes",654
+"2007-2011",8,"Nou Barris",51,"Verdun",607
+"2007-2011",8,"Nou Barris",52,"la Prosperitat",1135
+"2007-2011",8,"Nou Barris",53,"la Trinitat Nova",492
+"2007-2011",8,"Nou Barris",54,"Torre Baró",112
+"2007-2011",8,"Nou Barris",55,"Ciutat Meridiana",335
+"2007-2011",8,"Nou Barris",56,"Vallbona",69
+"2007-2011",9,"Sant Andreu",57,"la Trinitat Vella",298
+"2007-2011",9,"Sant Andreu",58,"Baró de Viver",136
+"2007-2011",9,"Sant Andreu",59,"el Bon Pastor",488
+"2007-2011",9,"Sant Andreu",60,"Sant Andreu",2328
+"2007-2011",9,"Sant Andreu",61,"la Sagrera",1149
+"2007-2011",9,"Sant Andreu",62,"el Congrés i els Indians",827
+"2007-2011",9,"Sant Andreu",63,"Navas",967
+"2007-2011",10,"Sant Martí",64,"el Camp de l'Arpa del Clot",1779
+"2007-2011",10,"Sant Martí",65,"el Clot",1019
+"2007-2011",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou",581
+"2007-2011",10,"Sant Martí",67,"la Vila Olímpica del Poblenou",164
+"2007-2011",10,"Sant Martí",68,"el Poblenou",1438
+"2007-2011",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou",320
+"2007-2011",10,"Sant Martí",70,"el Besòs i el Maresme",1030
+"2007-2011",10,"Sant Martí",71,"Provençals del Poblenou",752
+"2007-2011",10,"Sant Martí",72,"Sant Martí de Provençals",1387
+"2007-2011",10,"Sant Martí",73,"la Verneda i la Pau",1432
+"2007-2011",99,"No consta",99,"No consta",1022
+"2008-2012",1,"Ciutat Vella",1,"el Raval",1949
+"2008-2012",1,"Ciutat Vella",2,"el Barri Gòtic",796
+"2008-2012",1,"Ciutat Vella",3,"la Barceloneta",922
+"2008-2012",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera",1011
+"2008-2012",2,"Eixample",5,"el Fort Pienc",1513
+"2008-2012",2,"Eixample",6,"la Sagrada Família",2736
+"2008-2012",2,"Eixample",7,"la Dreta de l'Eixample",2812
+"2008-2012",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample",2326
+"2008-2012",2,"Eixample",9,"la Nova Esquerra de l'Eixample",2841
+"2008-2012",2,"Eixample",10,"Sant Antoni",2118
+"2008-2012",3,"Sants-Montjuïc",11,"el Poble Sec",1869
+"2008-2012",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell",148
+"2008-2012",3,"Sants-Montjuïc",13,"la Marina de Port",1152
+"2008-2012",3,"Sants-Montjuïc",14,"la Font de la Guatlla",513
+"2008-2012",3,"Sants-Montjuïc",15,"Hostafrancs",758
+"2008-2012",3,"Sants-Montjuïc",16,"la Bordeta",806
+"2008-2012",3,"Sants-Montjuïc",17,"Sants - Badal",1020
+"2008-2012",3,"Sants-Montjuïc",18,"Sants",2005
+"2008-2012",4,"Les Corts",19,"les Corts",2162
+"2008-2012",4,"Les Corts",20,"la Maternitat i Sant Ramon",973
+"2008-2012",4,"Les Corts",21,"Pedralbes",510
+"2008-2012",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes",245
+"2008-2012",5,"Sarrià-Sant Gervasi",23,"Sarrià",1166
+"2008-2012",5,"Sarrià-Sant Gervasi",24,"les Tres Torres",586
+"2008-2012",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova",1292
+"2008-2012",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany",2369
+"2008-2012",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró",1218
+"2008-2012",6,"Gràcia",28,"Vallcarca i els Penitents",773
+"2008-2012",6,"Gràcia",29,"el Coll",262
+"2008-2012",6,"Gràcia",30,"la Salut",727
+"2008-2012",6,"Gràcia",31,"la Vila de Gràcia",2755
+"2008-2012",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova",1680
+"2008-2012",7,"Horta-Guinardó",33,"el Baix Guinardó",1391
+"2008-2012",7,"Horta-Guinardó",34,"Can Baró",429
+"2008-2012",7,"Horta-Guinardó",35,"el Guinardó",1704
+"2008-2012",7,"Horta-Guinardó",36,"la Font d'en Fargues",478
+"2008-2012",7,"Horta-Guinardó",37,"el Carmel",1276
+"2008-2012",7,"Horta-Guinardó",38,"la Teixonera",507
+"2008-2012",7,"Horta-Guinardó",39,"Sant Genís dels Agudells",363
+"2008-2012",7,"Horta-Guinardó",40,"Montbau",567
+"2008-2012",7,"Horta-Guinardó",41,"la Vall d'Hebron",242
+"2008-2012",7,"Horta-Guinardó",42,"la Clota",28
+"2008-2012",7,"Horta-Guinardó",43,"Horta",1489
+"2008-2012",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta",1327
+"2008-2012",8,"Nou Barris",45,"Porta",1181
+"2008-2012",8,"Nou Barris",46,"el Turó de la Peira",938
+"2008-2012",8,"Nou Barris",47,"Can Peguera",153
+"2008-2012",8,"Nou Barris",48,"la Guineueta",837
+"2008-2012",8,"Nou Barris",49,"Canyelles",297
+"2008-2012",8,"Nou Barris",50,"les Roquetes",658
+"2008-2012",8,"Nou Barris",51,"Verdun",604
+"2008-2012",8,"Nou Barris",52,"la Prosperitat",1146
+"2008-2012",8,"Nou Barris",53,"la Trinitat Nova",509
+"2008-2012",8,"Nou Barris",54,"Torre Baró",121
+"2008-2012",8,"Nou Barris",55,"Ciutat Meridiana",333
+"2008-2012",8,"Nou Barris",56,"Vallbona",79
+"2008-2012",9,"Sant Andreu",57,"la Trinitat Vella",291
+"2008-2012",9,"Sant Andreu",58,"Baró de Viver",122
+"2008-2012",9,"Sant Andreu",59,"el Bon Pastor",504
+"2008-2012",9,"Sant Andreu",60,"Sant Andreu",2304
+"2008-2012",9,"Sant Andreu",61,"la Sagrera",1163
+"2008-2012",9,"Sant Andreu",62,"el Congrés i els Indians",809
+"2008-2012",9,"Sant Andreu",63,"Navas",975
+"2008-2012",10,"Sant Martí",64,"el Camp de l'Arpa del Clot",1735
+"2008-2012",10,"Sant Martí",65,"el Clot",1012
+"2008-2012",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou",582
+"2008-2012",10,"Sant Martí",67,"la Vila Olímpica del Poblenou",164
+"2008-2012",10,"Sant Martí",68,"el Poblenou",1440
+"2008-2012",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou",329
+"2008-2012",10,"Sant Martí",70,"el Besòs i el Maresme",1054
+"2008-2012",10,"Sant Martí",71,"Provençals del Poblenou",757
+"2008-2012",10,"Sant Martí",72,"Sant Martí de Provençals",1389
+"2008-2012",10,"Sant Martí",73,"la Verneda i la Pau",1474
+"2008-2012",99,"No consta",99,"No consta",972
+"2009-2013",1,"Ciutat Vella",1,"el Raval",1892
+"2009-2013",1,"Ciutat Vella",2,"el Barri Gòtic",767
+"2009-2013",1,"Ciutat Vella",3,"la Barceloneta",899
+"2009-2013",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera",971
+"2009-2013",2,"Eixample",5,"el Fort Pienc",1531
+"2009-2013",2,"Eixample",6,"la Sagrada Família",2732
+"2009-2013",2,"Eixample",7,"la Dreta de l'Eixample",2770
+"2009-2013",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample",2323
+"2009-2013",2,"Eixample",9,"la Nova Esquerra de l'Eixample",2757
+"2009-2013",2,"Eixample",10,"Sant Antoni",2061
+"2009-2013",3,"Sants-Montjuïc",11,"el Poble Sec",1813
+"2009-2013",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell",148
+"2009-2013",3,"Sants-Montjuïc",13,"la Marina de Port",1171
+"2009-2013",3,"Sants-Montjuïc",14,"la Font de la Guatlla",544
+"2009-2013",3,"Sants-Montjuïc",15,"Hostafrancs",771
+"2009-2013",3,"Sants-Montjuïc",16,"la Bordeta",818
+"2009-2013",3,"Sants-Montjuïc",17,"Sants - Badal",1007
+"2009-2013",3,"Sants-Montjuïc",18,"Sants",2035
+"2009-2013",4,"Les Corts",19,"les Corts",2109
+"2009-2013",4,"Les Corts",20,"la Maternitat i Sant Ramon",957
+"2009-2013",4,"Les Corts",21,"Pedralbes",490
+"2009-2013",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes",232
+"2009-2013",5,"Sarrià-Sant Gervasi",23,"Sarrià",1181
+"2009-2013",5,"Sarrià-Sant Gervasi",24,"les Tres Torres",588
+"2009-2013",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova",1261
+"2009-2013",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany",2351
+"2009-2013",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró",1228
+"2009-2013",6,"Gràcia",28,"Vallcarca i els Penitents",791
+"2009-2013",6,"Gràcia",29,"el Coll",255
+"2009-2013",6,"Gràcia",30,"la Salut",725
+"2009-2013",6,"Gràcia",31,"la Vila de Gràcia",2704
+"2009-2013",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova",1694
+"2009-2013",7,"Horta-Guinardó",33,"el Baix Guinardó",1450
+"2009-2013",7,"Horta-Guinardó",34,"Can Baró",427
+"2009-2013",7,"Horta-Guinardó",35,"el Guinardó",1697
+"2009-2013",7,"Horta-Guinardó",36,"la Font d'en Fargues",491
+"2009-2013",7,"Horta-Guinardó",37,"el Carmel",1265
+"2009-2013",7,"Horta-Guinardó",38,"la Teixonera",489
+"2009-2013",7,"Horta-Guinardó",39,"Sant Genís dels Agudells",381
+"2009-2013",7,"Horta-Guinardó",40,"Montbau",582
+"2009-2013",7,"Horta-Guinardó",41,"la Vall d'Hebron",256
+"2009-2013",7,"Horta-Guinardó",42,"la Clota",30
+"2009-2013",7,"Horta-Guinardó",43,"Horta",1531
+"2009-2013",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta",1376
+"2009-2013",8,"Nou Barris",45,"Porta",1160
+"2009-2013",8,"Nou Barris",46,"el Turó de la Peira",893
+"2009-2013",8,"Nou Barris",47,"Can Peguera",143
+"2009-2013",8,"Nou Barris",48,"la Guineueta",834
+"2009-2013",8,"Nou Barris",49,"Canyelles",301
+"2009-2013",8,"Nou Barris",50,"les Roquetes",638
+"2009-2013",8,"Nou Barris",51,"Verdun",609
+"2009-2013",8,"Nou Barris",52,"la Prosperitat",1150
+"2009-2013",8,"Nou Barris",53,"la Trinitat Nova",509
+"2009-2013",8,"Nou Barris",54,"Torre Baró",118
+"2009-2013",8,"Nou Barris",55,"Ciutat Meridiana",314
+"2009-2013",8,"Nou Barris",56,"Vallbona",89
+"2009-2013",9,"Sant Andreu",57,"la Trinitat Vella",285
+"2009-2013",9,"Sant Andreu",58,"Baró de Viver",118
+"2009-2013",9,"Sant Andreu",59,"el Bon Pastor",507
+"2009-2013",9,"Sant Andreu",60,"Sant Andreu",2318
+"2009-2013",9,"Sant Andreu",61,"la Sagrera",1176
+"2009-2013",9,"Sant Andreu",62,"el Congrés i els Indians",787
+"2009-2013",9,"Sant Andreu",63,"Navas",931
+"2009-2013",10,"Sant Martí",64,"el Camp de l'Arpa del Clot",1739
+"2009-2013",10,"Sant Martí",65,"el Clot",1010
+"2009-2013",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou",588
+"2009-2013",10,"Sant Martí",67,"la Vila Olímpica del Poblenou",161
+"2009-2013",10,"Sant Martí",68,"el Poblenou",1386
+"2009-2013",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou",324
+"2009-2013",10,"Sant Martí",70,"el Besòs i el Maresme",1052
+"2009-2013",10,"Sant Martí",71,"Provençals del Poblenou",752
+"2009-2013",10,"Sant Martí",72,"Sant Martí de Provençals",1374
+"2009-2013",10,"Sant Martí",73,"la Verneda i la Pau",1462
+"2009-2013",99,"No consta",99,"No consta",851
+"2010-2014",1,"Ciutat Vella",1,"el Raval",1823
+"2010-2014",1,"Ciutat Vella",2,"el Barri Gòtic",734
+"2010-2014",1,"Ciutat Vella",3,"la Barceloneta",918
+"2010-2014",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera",980
+"2010-2014",2,"Eixample",5,"el Fort Pienc",1539
+"2010-2014",2,"Eixample",6,"la Sagrada Família",2728
+"2010-2014",2,"Eixample",7,"la Dreta de l'Eixample",2753
+"2010-2014",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample",2266
+"2010-2014",2,"Eixample",9,"la Nova Esquerra de l'Eixample",2688
+"2010-2014",2,"Eixample",10,"Sant Antoni",2045
+"2010-2014",3,"Sants-Montjuïc",11,"el Poble Sec",1795
+"2010-2014",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell",90
+"2010-2014",3,"Sants-Montjuïc",13,"la Marina de Port",1229
+"2010-2014",3,"Sants-Montjuïc",14,"la Font de la Guatlla",603
+"2010-2014",3,"Sants-Montjuïc",15,"Hostafrancs",709
+"2010-2014",3,"Sants-Montjuïc",16,"la Bordeta",816
+"2010-2014",3,"Sants-Montjuïc",17,"Sants - Badal",976
+"2010-2014",3,"Sants-Montjuïc",18,"Sants",2001
+"2010-2014",4,"Les Corts",19,"les Corts",2132
+"2010-2014",4,"Les Corts",20,"la Maternitat i Sant Ramon",958
+"2010-2014",4,"Les Corts",21,"Pedralbes",522
+"2010-2014",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes",218
+"2010-2014",5,"Sarrià-Sant Gervasi",23,"Sarrià",1192
+"2010-2014",5,"Sarrià-Sant Gervasi",24,"les Tres Torres",595
+"2010-2014",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova",1242
+"2010-2014",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany",2356
+"2010-2014",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró",1226
+"2010-2014",6,"Gràcia",28,"Vallcarca i els Penitents",768
+"2010-2014",6,"Gràcia",29,"el Coll",255
+"2010-2014",6,"Gràcia",30,"la Salut",725
+"2010-2014",6,"Gràcia",31,"la Vila de Gràcia",2599
+"2010-2014",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova",1713
+"2010-2014",7,"Horta-Guinardó",33,"el Baix Guinardó",1490
+"2010-2014",7,"Horta-Guinardó",34,"Can Baró",428
+"2010-2014",7,"Horta-Guinardó",35,"el Guinardó",1671
+"2010-2014",7,"Horta-Guinardó",36,"la Font d'en Fargues",475
+"2010-2014",7,"Horta-Guinardó",37,"el Carmel",1243
+"2010-2014",7,"Horta-Guinardó",38,"la Teixonera",480
+"2010-2014",7,"Horta-Guinardó",39,"Sant Genís dels Agudells",393
+"2010-2014",7,"Horta-Guinardó",40,"Montbau",563
+"2010-2014",7,"Horta-Guinardó",41,"la Vall d'Hebron",267
+"2010-2014",7,"Horta-Guinardó",42,"la Clota",32
+"2010-2014",7,"Horta-Guinardó",43,"Horta",1456
+"2010-2014",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta",1387
+"2010-2014",8,"Nou Barris",45,"Porta",1159
+"2010-2014",8,"Nou Barris",46,"el Turó de la Peira",871
+"2010-2014",8,"Nou Barris",47,"Can Peguera",136
+"2010-2014",8,"Nou Barris",48,"la Guineueta",809
+"2010-2014",8,"Nou Barris",49,"Canyelles",308
+"2010-2014",8,"Nou Barris",50,"les Roquetes",620
+"2010-2014",8,"Nou Barris",51,"Verdun",571
+"2010-2014",8,"Nou Barris",52,"la Prosperitat",1123
+"2010-2014",8,"Nou Barris",53,"la Trinitat Nova",497
+"2010-2014",8,"Nou Barris",54,"Torre Baró",106
+"2010-2014",8,"Nou Barris",55,"Ciutat Meridiana",307
+"2010-2014",8,"Nou Barris",56,"Vallbona",100
+"2010-2014",9,"Sant Andreu",57,"la Trinitat Vella",269
+"2010-2014",9,"Sant Andreu",58,"Baró de Viver",107
+"2010-2014",9,"Sant Andreu",59,"el Bon Pastor",517
+"2010-2014",9,"Sant Andreu",60,"Sant Andreu",2225
+"2010-2014",9,"Sant Andreu",61,"la Sagrera",1165
+"2010-2014",9,"Sant Andreu",62,"el Congrés i els Indians",784
+"2010-2014",9,"Sant Andreu",63,"Navas",910
+"2010-2014",10,"Sant Martí",64,"el Camp de l'Arpa del Clot",1735
+"2010-2014",10,"Sant Martí",65,"el Clot",988
+"2010-2014",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou",623
+"2010-2014",10,"Sant Martí",67,"la Vila Olímpica del Poblenou",171
+"2010-2014",10,"Sant Martí",68,"el Poblenou",1380
+"2010-2014",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou",324
+"2010-2014",10,"Sant Martí",70,"el Besòs i el Maresme",1035
+"2010-2014",10,"Sant Martí",71,"Provençals del Poblenou",696
+"2010-2014",10,"Sant Martí",72,"Sant Martí de Provençals",1341
+"2010-2014",10,"Sant Martí",73,"la Verneda i la Pau",1453
+"2010-2014",99,"No consta",99,"No consta",1308
+"2011-2015",1,"Ciutat Vella",1,"el Raval",1757
+"2011-2015",1,"Ciutat Vella",2,"el Barri Gòtic",697
+"2011-2015",1,"Ciutat Vella",3,"la Barceloneta",911
+"2011-2015",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera",930
+"2011-2015",2,"Eixample",5,"el Fort Pienc",1529
+"2011-2015",2,"Eixample",6,"la Sagrada Família",2761
+"2011-2015",2,"Eixample",7,"la Dreta de l'Eixample",2680
+"2011-2015",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample",2230
+"2011-2015",2,"Eixample",9,"la Nova Esquerra de l'Eixample",2702
+"2011-2015",2,"Eixample",10,"Sant Antoni",1986
+"2011-2015",3,"Sants-Montjuïc",11,"el Poble Sec",1779
+"2011-2015",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell",88
+"2011-2015",3,"Sants-Montjuïc",13,"la Marina de Port",1253
+"2011-2015",3,"Sants-Montjuïc",14,"la Font de la Guatlla",643
+"2011-2015",3,"Sants-Montjuïc",15,"Hostafrancs",714
+"2011-2015",3,"Sants-Montjuïc",16,"la Bordeta",855
+"2011-2015",3,"Sants-Montjuïc",17,"Sants - Badal",996
+"2011-2015",3,"Sants-Montjuïc",18,"Sants",1986
+"2011-2015",4,"Les Corts",19,"les Corts",2128
+"2011-2015",4,"Les Corts",20,"la Maternitat i Sant Ramon",958
+"2011-2015",4,"Les Corts",21,"Pedralbes",509
+"2011-2015",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes",234
+"2011-2015",5,"Sarrià-Sant Gervasi",23,"Sarrià",1241
+"2011-2015",5,"Sarrià-Sant Gervasi",24,"les Tres Torres",604
+"2011-2015",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova",1259
+"2011-2015",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany",2336
+"2011-2015",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró",1231
+"2011-2015",6,"Gràcia",28,"Vallcarca i els Penitents",760
+"2011-2015",6,"Gràcia",29,"el Coll",254
+"2011-2015",6,"Gràcia",30,"la Salut",732
+"2011-2015",6,"Gràcia",31,"la Vila de Gràcia",2616
+"2011-2015",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova",1732
+"2011-2015",7,"Horta-Guinardó",33,"el Baix Guinardó",1530
+"2011-2015",7,"Horta-Guinardó",34,"Can Baró",447
+"2011-2015",7,"Horta-Guinardó",35,"el Guinardó",1685
+"2011-2015",7,"Horta-Guinardó",36,"la Font d'en Fargues",482
+"2011-2015",7,"Horta-Guinardó",37,"el Carmel",1239
+"2011-2015",7,"Horta-Guinardó",38,"la Teixonera",494
+"2011-2015",7,"Horta-Guinardó",39,"Sant Genís dels Agudells",435
+"2011-2015",7,"Horta-Guinardó",40,"Montbau",556
+"2011-2015",7,"Horta-Guinardó",41,"la Vall d'Hebron",266
+"2011-2015",7,"Horta-Guinardó",42,"la Clota",28
+"2011-2015",7,"Horta-Guinardó",43,"Horta",1461
+"2011-2015",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta",1398
+"2011-2015",8,"Nou Barris",45,"Porta",1191
+"2011-2015",8,"Nou Barris",46,"el Turó de la Peira",880
+"2011-2015",8,"Nou Barris",47,"Can Peguera",137
+"2011-2015",8,"Nou Barris",48,"la Guineueta",844
+"2011-2015",8,"Nou Barris",49,"Canyelles",318
+"2011-2015",8,"Nou Barris",50,"les Roquetes",612
+"2011-2015",8,"Nou Barris",51,"Verdun",551
+"2011-2015",8,"Nou Barris",52,"la Prosperitat",1143
+"2011-2015",8,"Nou Barris",53,"la Trinitat Nova",524
+"2011-2015",8,"Nou Barris",54,"Torre Baró",95
+"2011-2015",8,"Nou Barris",55,"Ciutat Meridiana",312
+"2011-2015",8,"Nou Barris",56,"Vallbona",106
+"2011-2015",9,"Sant Andreu",57,"la Trinitat Vella",275
+"2011-2015",9,"Sant Andreu",58,"Baró de Viver",110
+"2011-2015",9,"Sant Andreu",59,"el Bon Pastor",535
+"2011-2015",9,"Sant Andreu",60,"Sant Andreu",2255
+"2011-2015",9,"Sant Andreu",61,"la Sagrera",1218
+"2011-2015",9,"Sant Andreu",62,"el Congrés i els Indians",773
+"2011-2015",9,"Sant Andreu",63,"Navas",935
+"2011-2015",10,"Sant Martí",64,"el Camp de l'Arpa del Clot",1751
+"2011-2015",10,"Sant Martí",65,"el Clot",978
+"2011-2015",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou",622
+"2011-2015",10,"Sant Martí",67,"la Vila Olímpica del Poblenou",163
+"2011-2015",10,"Sant Martí",68,"el Poblenou",1421
+"2011-2015",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou",333
+"2011-2015",10,"Sant Martí",70,"el Besòs i el Maresme",1006
+"2011-2015",10,"Sant Martí",71,"Provençals del Poblenou",736
+"2011-2015",10,"Sant Martí",72,"Sant Martí de Provençals",1345
+"2011-2015",10,"Sant Martí",73,"la Verneda i la Pau",1469
+"2011-2015",99,"No consta",99,"No consta",1434
+"2012-2016",1,"Ciutat Vella",1,"el Raval",1697
+"2012-2016",1,"Ciutat Vella",2,"el Barri Gòtic",641
+"2012-2016",1,"Ciutat Vella",3,"la Barceloneta",924
+"2012-2016",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera",927
+"2012-2016",2,"Eixample",5,"el Fort Pienc",1554
+"2012-2016",2,"Eixample",6,"la Sagrada Família",2730
+"2012-2016",2,"Eixample",7,"la Dreta de l'Eixample",2672
+"2012-2016",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample",2247
+"2012-2016",2,"Eixample",9,"la Nova Esquerra de l'Eixample",2700
+"2012-2016",2,"Eixample",10,"Sant Antoni",1965
+"2012-2016",3,"Sants-Montjuïc",11,"el Poble Sec",1762
+"2012-2016",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell",86
+"2012-2016",3,"Sants-Montjuïc",13,"la Marina de Port",1276
+"2012-2016",3,"Sants-Montjuïc",14,"la Font de la Guatlla",643
+"2012-2016",3,"Sants-Montjuïc",15,"Hostafrancs",693
+"2012-2016",3,"Sants-Montjuïc",16,"la Bordeta",859
+"2012-2016",3,"Sants-Montjuïc",17,"Sants - Badal",1005
+"2012-2016",3,"Sants-Montjuïc",18,"Sants",1950
+"2012-2016",4,"Les Corts",19,"les Corts",2144
+"2012-2016",4,"Les Corts",20,"la Maternitat i Sant Ramon",981
+"2012-2016",4,"Les Corts",21,"Pedralbes",533
+"2012-2016",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes",245
+"2012-2016",5,"Sarrià-Sant Gervasi",23,"Sarrià",1216
+"2012-2016",5,"Sarrià-Sant Gervasi",24,"les Tres Torres",647
+"2012-2016",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova",1299
+"2012-2016",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany",2305
+"2012-2016",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró",1226
+"2012-2016",6,"Gràcia",28,"Vallcarca i els Penitents",753
+"2012-2016",6,"Gràcia",29,"el Coll",275
+"2012-2016",6,"Gràcia",30,"la Salut",757
+"2012-2016",6,"Gràcia",31,"la Vila de Gràcia",2570
+"2012-2016",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova",1799
+"2012-2016",7,"Horta-Guinardó",33,"el Baix Guinardó",1562
+"2012-2016",7,"Horta-Guinardó",34,"Can Baró",464
+"2012-2016",7,"Horta-Guinardó",35,"el Guinardó",1681
+"2012-2016",7,"Horta-Guinardó",36,"la Font d'en Fargues",484
+"2012-2016",7,"Horta-Guinardó",37,"el Carmel",1293
+"2012-2016",7,"Horta-Guinardó",38,"la Teixonera",493
+"2012-2016",7,"Horta-Guinardó",39,"Sant Genís dels Agudells",450
+"2012-2016",7,"Horta-Guinardó",40,"Montbau",552
+"2012-2016",7,"Horta-Guinardó",41,"la Vall d'Hebron",290
+"2012-2016",7,"Horta-Guinardó",42,"la Clota",31
+"2012-2016",7,"Horta-Guinardó",43,"Horta",1470
+"2012-2016",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta",1392
+"2012-2016",8,"Nou Barris",45,"Porta",1213
+"2012-2016",8,"Nou Barris",46,"el Turó de la Peira",872
+"2012-2016",8,"Nou Barris",47,"Can Peguera",135
+"2012-2016",8,"Nou Barris",48,"la Guineueta",808
+"2012-2016",8,"Nou Barris",49,"Canyelles",310
+"2012-2016",8,"Nou Barris",50,"les Roquetes",603
+"2012-2016",8,"Nou Barris",51,"Verdun",560
+"2012-2016",8,"Nou Barris",52,"la Prosperitat",1171
+"2012-2016",8,"Nou Barris",53,"la Trinitat Nova",526
+"2012-2016",8,"Nou Barris",54,"Torre Baró",89
+"2012-2016",8,"Nou Barris",55,"Ciutat Meridiana",312
+"2012-2016",8,"Nou Barris",56,"Vallbona",105
+"2012-2016",9,"Sant Andreu",57,"la Trinitat Vella",287
+"2012-2016",9,"Sant Andreu",58,"Baró de Viver",114
+"2012-2016",9,"Sant Andreu",59,"el Bon Pastor",535
+"2012-2016",9,"Sant Andreu",60,"Sant Andreu",2293
+"2012-2016",9,"Sant Andreu",61,"la Sagrera",1230
+"2012-2016",9,"Sant Andreu",62,"el Congrés i els Indians",802
+"2012-2016",9,"Sant Andreu",63,"Navas",942
+"2012-2016",10,"Sant Martí",64,"el Camp de l'Arpa del Clot",1783
+"2012-2016",10,"Sant Martí",65,"el Clot",1010
+"2012-2016",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou",641
+"2012-2016",10,"Sant Martí",67,"la Vila Olímpica del Poblenou",162
+"2012-2016",10,"Sant Martí",68,"el Poblenou",1384
+"2012-2016",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou",352
+"2012-2016",10,"Sant Martí",70,"el Besòs i el Maresme",1024
+"2012-2016",10,"Sant Martí",71,"Provençals del Poblenou",748
+"2012-2016",10,"Sant Martí",72,"Sant Martí de Provençals",1320
+"2012-2016",10,"Sant Martí",73,"la Verneda i la Pau",1509
+"2012-2016",99,"No consta",99,"No consta",1540
+"2013-2017",1,"Ciutat Vella",1,"el Raval",1695
+"2013-2017",1,"Ciutat Vella",2,"el Barri Gòtic",657
+"2013-2017",1,"Ciutat Vella",3,"la Barceloneta",902
+"2013-2017",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera",900
+"2013-2017",2,"Eixample",5,"el Fort Pienc",1557
+"2013-2017",2,"Eixample",6,"la Sagrada Família",2732
+"2013-2017",2,"Eixample",7,"la Dreta de l'Eixample",2660
+"2013-2017",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample",2224
+"2013-2017",2,"Eixample",9,"la Nova Esquerra de l'Eixample",2705
+"2013-2017",2,"Eixample",10,"Sant Antoni",1907
+"2013-2017",3,"Sants-Montjuïc",11,"el Poble Sec",1752
+"2013-2017",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell",77
+"2013-2017",3,"Sants-Montjuïc",13,"la Marina de Port",1265
+"2013-2017",3,"Sants-Montjuïc",14,"la Font de la Guatlla",668
+"2013-2017",3,"Sants-Montjuïc",15,"Hostafrancs",698
+"2013-2017",3,"Sants-Montjuïc",16,"la Bordeta",835
+"2013-2017",3,"Sants-Montjuïc",17,"Sants - Badal",1016
+"2013-2017",3,"Sants-Montjuïc",18,"Sants",1948
+"2013-2017",4,"Les Corts",19,"les Corts",2157
+"2013-2017",4,"Les Corts",20,"la Maternitat i Sant Ramon",976
+"2013-2017",4,"Les Corts",21,"Pedralbes",528
+"2013-2017",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes",240
+"2013-2017",5,"Sarrià-Sant Gervasi",23,"Sarrià",1220
+"2013-2017",5,"Sarrià-Sant Gervasi",24,"les Tres Torres",677
+"2013-2017",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova",1290
+"2013-2017",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany",2245
+"2013-2017",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró",1227
+"2013-2017",6,"Gràcia",28,"Vallcarca i els Penitents",767
+"2013-2017",6,"Gràcia",29,"el Coll",270
+"2013-2017",6,"Gràcia",30,"la Salut",742
+"2013-2017",6,"Gràcia",31,"la Vila de Gràcia",2526
+"2013-2017",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova",1803
+"2013-2017",7,"Horta-Guinardó",33,"el Baix Guinardó",1565
+"2013-2017",7,"Horta-Guinardó",34,"Can Baró",477
+"2013-2017",7,"Horta-Guinardó",35,"el Guinardó",1653
+"2013-2017",7,"Horta-Guinardó",36,"la Font d'en Fargues",460
+"2013-2017",7,"Horta-Guinardó",37,"el Carmel",1313
+"2013-2017",7,"Horta-Guinardó",38,"la Teixonera",531
+"2013-2017",7,"Horta-Guinardó",39,"Sant Genís dels Agudells",473
+"2013-2017",7,"Horta-Guinardó",40,"Montbau",558
+"2013-2017",7,"Horta-Guinardó",41,"la Vall d'Hebron",304
+"2013-2017",7,"Horta-Guinardó",42,"la Clota",28
+"2013-2017",7,"Horta-Guinardó",43,"Horta",1460
+"2013-2017",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta",1375
+"2013-2017",8,"Nou Barris",45,"Porta",1241
+"2013-2017",8,"Nou Barris",46,"el Turó de la Peira",875
+"2013-2017",8,"Nou Barris",47,"Can Peguera",143
+"2013-2017",8,"Nou Barris",48,"la Guineueta",794
+"2013-2017",8,"Nou Barris",49,"Canyelles",319
+"2013-2017",8,"Nou Barris",50,"les Roquetes",593
+"2013-2017",8,"Nou Barris",51,"Verdun",554
+"2013-2017",8,"Nou Barris",52,"la Prosperitat",1205
+"2013-2017",8,"Nou Barris",53,"la Trinitat Nova",481
+"2013-2017",8,"Nou Barris",54,"Torre Baró",90
+"2013-2017",8,"Nou Barris",55,"Ciutat Meridiana",321
+"2013-2017",8,"Nou Barris",56,"Vallbona",111
+"2013-2017",9,"Sant Andreu",57,"la Trinitat Vella",294
+"2013-2017",9,"Sant Andreu",58,"Baró de Viver",123
+"2013-2017",9,"Sant Andreu",59,"el Bon Pastor",552
+"2013-2017",9,"Sant Andreu",60,"Sant Andreu",2353
+"2013-2017",9,"Sant Andreu",61,"la Sagrera",1245
+"2013-2017",9,"Sant Andreu",62,"el Congrés i els Indians",797
+"2013-2017",9,"Sant Andreu",63,"Navas",956
+"2013-2017",10,"Sant Martí",64,"el Camp de l'Arpa del Clot",1794
+"2013-2017",10,"Sant Martí",65,"el Clot",1036
+"2013-2017",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou",644
+"2013-2017",10,"Sant Martí",67,"la Vila Olímpica del Poblenou",172
+"2013-2017",10,"Sant Martí",68,"el Poblenou",1402
+"2013-2017",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou",354
+"2013-2017",10,"Sant Martí",70,"el Besòs i el Maresme",993
+"2013-2017",10,"Sant Martí",71,"Provençals del Poblenou",759
+"2013-2017",10,"Sant Martí",72,"Sant Martí de Provençals",1334
+"2013-2017",10,"Sant Martí",73,"la Verneda i la Pau",1534
+"2013-2017",99,"No consta",99,"No consta",1780
+"2014-2018",1,"Ciutat Vella",1,"el Raval",1655
+"2014-2018",1,"Ciutat Vella",2,"el Barri Gòtic",635
+"2014-2018",1,"Ciutat Vella",3,"la Barceloneta",882
+"2014-2018",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera",869
+"2014-2018",2,"Eixample",5,"el Fort Pienc",1565
+"2014-2018",2,"Eixample",6,"la Sagrada Família",2719
+"2014-2018",2,"Eixample",7,"la Dreta de l'Eixample",2606
+"2014-2018",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample",2193
+"2014-2018",2,"Eixample",9,"la Nova Esquerra de l'Eixample",2774
+"2014-2018",2,"Eixample",10,"Sant Antoni",1910
+"2014-2018",3,"Sants-Montjuïc",11,"el Poble Sec",1779
+"2014-2018",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell",74
+"2014-2018",3,"Sants-Montjuïc",13,"la Marina de Port",1311
+"2014-2018",3,"Sants-Montjuïc",14,"la Font de la Guatlla",644
+"2014-2018",3,"Sants-Montjuïc",15,"Hostafrancs",701
+"2014-2018",3,"Sants-Montjuïc",16,"la Bordeta",862
+"2014-2018",3,"Sants-Montjuïc",17,"Sants - Badal",1040
+"2014-2018",3,"Sants-Montjuïc",18,"Sants",1900
+"2014-2018",4,"Les Corts",19,"les Corts",2203
+"2014-2018",4,"Les Corts",20,"la Maternitat i Sant Ramon",1005
+"2014-2018",4,"Les Corts",21,"Pedralbes",541
+"2014-2018",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes",250
+"2014-2018",5,"Sarrià-Sant Gervasi",23,"Sarrià",1246
+"2014-2018",5,"Sarrià-Sant Gervasi",24,"les Tres Torres",707
+"2014-2018",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova",1341
+"2014-2018",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany",2256
+"2014-2018",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró",1216
+"2014-2018",6,"Gràcia",28,"Vallcarca i els Penitents",768
+"2014-2018",6,"Gràcia",29,"el Coll",294
+"2014-2018",6,"Gràcia",30,"la Salut",764
+"2014-2018",6,"Gràcia",31,"la Vila de Gràcia",2490
+"2014-2018",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova",1776
+"2014-2018",7,"Horta-Guinardó",33,"el Baix Guinardó",1616
+"2014-2018",7,"Horta-Guinardó",34,"Can Baró",482
+"2014-2018",7,"Horta-Guinardó",35,"el Guinardó",1691
+"2014-2018",7,"Horta-Guinardó",36,"la Font d'en Fargues",464
+"2014-2018",7,"Horta-Guinardó",37,"el Carmel",1373
+"2014-2018",7,"Horta-Guinardó",38,"la Teixonera",529
+"2014-2018",7,"Horta-Guinardó",39,"Sant Genís dels Agudells",496
+"2014-2018",7,"Horta-Guinardó",40,"Montbau",575
+"2014-2018",7,"Horta-Guinardó",41,"la Vall d'Hebron",306
+"2014-2018",7,"Horta-Guinardó",42,"la Clota",26
+"2014-2018",7,"Horta-Guinardó",43,"Horta",1467
+"2014-2018",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta",1364
+"2014-2018",8,"Nou Barris",45,"Porta",1284
+"2014-2018",8,"Nou Barris",46,"el Turó de la Peira",905
+"2014-2018",8,"Nou Barris",47,"Can Peguera",146
+"2014-2018",8,"Nou Barris",48,"la Guineueta",790
+"2014-2018",8,"Nou Barris",49,"Canyelles",329
+"2014-2018",8,"Nou Barris",50,"les Roquetes",592
+"2014-2018",8,"Nou Barris",51,"Verdun",570
+"2014-2018",8,"Nou Barris",52,"la Prosperitat",1255
+"2014-2018",8,"Nou Barris",53,"la Trinitat Nova",477
+"2014-2018",8,"Nou Barris",54,"Torre Baró",89
+"2014-2018",8,"Nou Barris",55,"Ciutat Meridiana",325
+"2014-2018",8,"Nou Barris",56,"Vallbona",112
+"2014-2018",9,"Sant Andreu",57,"la Trinitat Vella",309
+"2014-2018",9,"Sant Andreu",58,"Baró de Viver",116
+"2014-2018",9,"Sant Andreu",59,"el Bon Pastor",563
+"2014-2018",9,"Sant Andreu",60,"Sant Andreu",2345
+"2014-2018",9,"Sant Andreu",61,"la Sagrera",1277
+"2014-2018",9,"Sant Andreu",62,"el Congrés i els Indians",813
+"2014-2018",9,"Sant Andreu",63,"Navas",1010
+"2014-2018",10,"Sant Martí",64,"el Camp de l'Arpa del Clot",1854
+"2014-2018",10,"Sant Martí",65,"el Clot",1061
+"2014-2018",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou",628
+"2014-2018",10,"Sant Martí",67,"la Vila Olímpica del Poblenou",187
+"2014-2018",10,"Sant Martí",68,"el Poblenou",1468
+"2014-2018",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou",379
+"2014-2018",10,"Sant Martí",70,"el Besòs i el Maresme",985
+"2014-2018",10,"Sant Martí",71,"Provençals del Poblenou",775
+"2014-2018",10,"Sant Martí",72,"Sant Martí de Provençals",1333
+"2014-2018",10,"Sant Martí",73,"la Verneda i la Pau",1542
+"2014-2018",99,"No consta",99,"No consta",1718
+"2015-2019",1,"Ciutat Vella",1,"el Raval",1623
+"2015-2019",1,"Ciutat Vella",2,"el Barri Gòtic",625
+"2015-2019",1,"Ciutat Vella",3,"la Barceloneta",860
+"2015-2019",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera",825
+"2015-2019",2,"Eixample",5,"el Fort Pienc",1566
+"2015-2019",2,"Eixample",6,"la Sagrada Família",2717
+"2015-2019",2,"Eixample",7,"la Dreta de l'Eixample",2576
+"2015-2019",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample",2229
+"2015-2019",2,"Eixample",9,"la Nova Esquerra de l'Eixample",2738
+"2015-2019",2,"Eixample",10,"Sant Antoni",1855
+"2015-2019",3,"Sants-Montjuïc",11,"el Poble Sec",1748
+"2015-2019",3,"Sants-Montjuïc",12,"la Marina del Prat Vermell",77
+"2015-2019",3,"Sants-Montjuïc",13,"la Marina de Port",1322
+"2015-2019",3,"Sants-Montjuïc",14,"la Font de la Guatlla",623
+"2015-2019",3,"Sants-Montjuïc",15,"Hostafrancs",681
+"2015-2019",3,"Sants-Montjuïc",16,"la Bordeta",859
+"2015-2019",3,"Sants-Montjuïc",17,"Sants - Badal",1069
+"2015-2019",3,"Sants-Montjuïc",18,"Sants",1895
+"2015-2019",4,"Les Corts",19,"les Corts",2236
+"2015-2019",4,"Les Corts",20,"la Maternitat i Sant Ramon",1061
+"2015-2019",4,"Les Corts",21,"Pedralbes",521
+"2015-2019",5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes",232
+"2015-2019",5,"Sarrià-Sant Gervasi",23,"Sarrià",1255
+"2015-2019",5,"Sarrià-Sant Gervasi",24,"les Tres Torres",713
+"2015-2019",5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova",1341
+"2015-2019",5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany",2291
+"2015-2019",5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró",1213
+"2015-2019",6,"Gràcia",28,"Vallcarca i els Penitents",735
+"2015-2019",6,"Gràcia",29,"el Coll",281
+"2015-2019",6,"Gràcia",30,"la Salut",783
+"2015-2019",6,"Gràcia",31,"la Vila de Gràcia",2436
+"2015-2019",6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova",1734
+"2015-2019",7,"Horta-Guinardó",33,"el Baix Guinardó",1547
+"2015-2019",7,"Horta-Guinardó",34,"Can Baró",480
+"2015-2019",7,"Horta-Guinardó",35,"el Guinardó",1697
+"2015-2019",7,"Horta-Guinardó",36,"la Font d'en Fargues",466
+"2015-2019",7,"Horta-Guinardó",37,"el Carmel",1382
+"2015-2019",7,"Horta-Guinardó",38,"la Teixonera",531
+"2015-2019",7,"Horta-Guinardó",39,"Sant Genís dels Agudells",476
+"2015-2019",7,"Horta-Guinardó",40,"Montbau",568
+"2015-2019",7,"Horta-Guinardó",41,"la Vall d'Hebron",314
+"2015-2019",7,"Horta-Guinardó",42,"la Clota",25
+"2015-2019",7,"Horta-Guinardó",43,"Horta",1474
+"2015-2019",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta",1331
+"2015-2019",8,"Nou Barris",45,"Porta",1296
+"2015-2019",8,"Nou Barris",46,"el Turó de la Peira",909
+"2015-2019",8,"Nou Barris",47,"Can Peguera",150
+"2015-2019",8,"Nou Barris",48,"la Guineueta",813
+"2015-2019",8,"Nou Barris",49,"Canyelles",349
+"2015-2019",8,"Nou Barris",50,"les Roquetes",586
+"2015-2019",8,"Nou Barris",51,"Verdun",580
+"2015-2019",8,"Nou Barris",52,"la Prosperitat",1276
+"2015-2019",8,"Nou Barris",53,"la Trinitat Nova",479
+"2015-2019",8,"Nou Barris",54,"Torre Baró",97
+"2015-2019",8,"Nou Barris",55,"Ciutat Meridiana",316
+"2015-2019",8,"Nou Barris",56,"Vallbona",102
+"2015-2019",9,"Sant Andreu",57,"la Trinitat Vella",303
+"2015-2019",9,"Sant Andreu",58,"Baró de Viver",117
+"2015-2019",9,"Sant Andreu",59,"el Bon Pastor",555
+"2015-2019",9,"Sant Andreu",60,"Sant Andreu",2380
+"2015-2019",9,"Sant Andreu",61,"la Sagrera",1306
+"2015-2019",9,"Sant Andreu",62,"el Congrés i els Indians",791
+"2015-2019",9,"Sant Andreu",63,"Navas",1039
+"2015-2019",10,"Sant Martí",64,"el Camp de l'Arpa del Clot",1890
+"2015-2019",10,"Sant Martí",65,"el Clot",1057
+"2015-2019",10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou",611
+"2015-2019",10,"Sant Martí",67,"la Vila Olímpica del Poblenou",190
+"2015-2019",10,"Sant Martí",68,"el Poblenou",1437
+"2015-2019",10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou",380
+"2015-2019",10,"Sant Martí",70,"el Besòs i el Maresme",977
+"2015-2019",10,"Sant Martí",71,"Provençals del Poblenou",801
+"2015-2019",10,"Sant Martí",72,"Sant Martí de Provençals",1336
+"2015-2019",10,"Sant Martí",73,"la Verneda i la Pau",1565
+"2015-2019",99,"No consta",99,"No consta",1773

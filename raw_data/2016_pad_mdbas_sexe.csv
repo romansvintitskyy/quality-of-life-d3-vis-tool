@@ -1,0 +1,2137 @@
+Data_Referencia,Codi_Districte,Nom_Districte,Codi_Barri,Nom_Barri,AEB,Seccio_Censal,Valor,SEXE
+2016-01-01,1,Ciutat Vella,1,el Raval,1,1001,570,1
+2016-01-01,1,Ciutat Vella,1,el Raval,1,1001,739,2
+2016-01-01,1,Ciutat Vella,1,el Raval,1,1002,681,1
+2016-01-01,1,Ciutat Vella,1,el Raval,1,1002,865,2
+2016-01-01,1,Ciutat Vella,1,el Raval,2,1003,1546,1
+2016-01-01,1,Ciutat Vella,1,el Raval,2,1003,1874,2
+2016-01-01,1,Ciutat Vella,1,el Raval,2,1004,1235,1
+2016-01-01,1,Ciutat Vella,1,el Raval,2,1004,1518,2
+2016-01-01,1,Ciutat Vella,1,el Raval,3,1005,1088,1
+2016-01-01,1,Ciutat Vella,1,el Raval,3,1005,1393,2
+2016-01-01,1,Ciutat Vella,1,el Raval,3,1006,672,1
+2016-01-01,1,Ciutat Vella,1,el Raval,3,1006,877,2
+2016-01-01,1,Ciutat Vella,1,el Raval,3,1007,805,1
+2016-01-01,1,Ciutat Vella,1,el Raval,3,1007,1245,2
+2016-01-01,1,Ciutat Vella,1,el Raval,4,1008,1306,1
+2016-01-01,1,Ciutat Vella,1,el Raval,4,1008,2141,2
+2016-01-01,1,Ciutat Vella,1,el Raval,4,1009,951,1
+2016-01-01,1,Ciutat Vella,1,el Raval,4,1009,1200,2
+2016-01-01,1,Ciutat Vella,1,el Raval,4,1010,1048,1
+2016-01-01,1,Ciutat Vella,1,el Raval,4,1010,1434,2
+2016-01-01,1,Ciutat Vella,1,el Raval,5,1011,1423,1
+2016-01-01,1,Ciutat Vella,1,el Raval,5,1011,1879,2
+2016-01-01,1,Ciutat Vella,1,el Raval,5,1012,900,1
+2016-01-01,1,Ciutat Vella,1,el Raval,5,1012,978,2
+2016-01-01,1,Ciutat Vella,1,el Raval,5,1013,686,1
+2016-01-01,1,Ciutat Vella,1,el Raval,5,1013,666,2
+2016-01-01,1,Ciutat Vella,1,el Raval,6,1014,917,1
+2016-01-01,1,Ciutat Vella,1,el Raval,6,1014,1019,2
+2016-01-01,1,Ciutat Vella,1,el Raval,6,1015,1089,1
+2016-01-01,1,Ciutat Vella,1,el Raval,6,1015,1181,2
+2016-01-01,1,Ciutat Vella,1,el Raval,6,1016,1084,1
+2016-01-01,1,Ciutat Vella,1,el Raval,6,1016,1120,2
+2016-01-01,1,Ciutat Vella,1,el Raval,6,1017,1272,1
+2016-01-01,1,Ciutat Vella,1,el Raval,6,1017,1353,2
+2016-01-01,1,Ciutat Vella,1,el Raval,7,1018,757,1
+2016-01-01,1,Ciutat Vella,1,el Raval,7,1018,820,2
+2016-01-01,1,Ciutat Vella,1,el Raval,7,1019,1273,1
+2016-01-01,1,Ciutat Vella,1,el Raval,7,1019,1537,2
+2016-01-01,1,Ciutat Vella,1,el Raval,7,1020,1102,1
+2016-01-01,1,Ciutat Vella,1,el Raval,7,1020,970,2
+2016-01-01,1,Ciutat Vella,1,el Raval,8,1021,982,1
+2016-01-01,1,Ciutat Vella,1,el Raval,8,1021,1000,2
+2016-01-01,1,Ciutat Vella,2,el Barri Gòtic,9,1022,652,1
+2016-01-01,1,Ciutat Vella,2,el Barri Gòtic,9,1022,557,2
+2016-01-01,1,Ciutat Vella,2,el Barri Gòtic,9,1023,1022,1
+2016-01-01,1,Ciutat Vella,2,el Barri Gòtic,9,1023,921,2
+2016-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1025,630,1
+2016-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1025,651,2
+2016-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1026,998,1
+2016-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1026,1360,2
+2016-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1027,772,1
+2016-01-01,1,Ciutat Vella,2,el Barri Gòtic,10,1027,839,2
+2016-01-01,1,Ciutat Vella,2,el Barri Gòtic,11,1028,959,1
+2016-01-01,1,Ciutat Vella,2,el Barri Gòtic,11,1028,936,2
+2016-01-01,1,Ciutat Vella,2,el Barri Gòtic,11,1029,666,1
+2016-01-01,1,Ciutat Vella,2,el Barri Gòtic,11,1029,710,2
+2016-01-01,1,Ciutat Vella,2,el Barri Gòtic,12,1030,1174,1
+2016-01-01,1,Ciutat Vella,2,el Barri Gòtic,12,1030,1279,2
+2016-01-01,1,Ciutat Vella,2,el Barri Gòtic,12,1031,694,1
+2016-01-01,1,Ciutat Vella,2,el Barri Gòtic,12,1031,909,2
+2016-01-01,1,Ciutat Vella,3,la Barceloneta,13,1032,877,1
+2016-01-01,1,Ciutat Vella,3,la Barceloneta,13,1032,900,2
+2016-01-01,1,Ciutat Vella,3,la Barceloneta,13,1033,519,1
+2016-01-01,1,Ciutat Vella,3,la Barceloneta,13,1033,619,2
+2016-01-01,1,Ciutat Vella,3,la Barceloneta,13,1034,515,1
+2016-01-01,1,Ciutat Vella,3,la Barceloneta,13,1034,486,2
+2016-01-01,1,Ciutat Vella,3,la Barceloneta,14,1035,646,1
+2016-01-01,1,Ciutat Vella,3,la Barceloneta,14,1035,680,2
+2016-01-01,1,Ciutat Vella,3,la Barceloneta,14,1036,624,1
+2016-01-01,1,Ciutat Vella,3,la Barceloneta,14,1036,548,2
+2016-01-01,1,Ciutat Vella,3,la Barceloneta,15,1037,770,1
+2016-01-01,1,Ciutat Vella,3,la Barceloneta,15,1037,704,2
+2016-01-01,1,Ciutat Vella,3,la Barceloneta,15,1038,717,1
+2016-01-01,1,Ciutat Vella,3,la Barceloneta,15,1038,784,2
+2016-01-01,1,Ciutat Vella,3,la Barceloneta,15,1039,637,1
+2016-01-01,1,Ciutat Vella,3,la Barceloneta,15,1039,658,2
+2016-01-01,1,Ciutat Vella,3,la Barceloneta,15,1040,549,1
+2016-01-01,1,Ciutat Vella,3,la Barceloneta,15,1040,560,2
+2016-01-01,1,Ciutat Vella,3,la Barceloneta,15,1041,717,1
+2016-01-01,1,Ciutat Vella,3,la Barceloneta,15,1041,757,2
+2016-01-01,1,Ciutat Vella,3,la Barceloneta,15,1042,976,1
+2016-01-01,1,Ciutat Vella,3,la Barceloneta,15,1042,825,2
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1043,638,1
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1043,648,2
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1044,759,1
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1044,689,2
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1045,974,1
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1045,1005,2
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1046,884,1
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",16,1046,859,2
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1047,929,1
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1047,866,2
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1048,1061,1
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1048,1108,2
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1049,782,1
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",17,1049,711,2
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1050,796,1
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1050,817,2
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1051,909,1
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1051,926,2
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1052,1163,1
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",18,1052,1271,2
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1053,1003,1
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1053,952,2
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1054,669,1
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1054,674,2
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1055,677,1
+2016-01-01,1,Ciutat Vella,4,"Sant Pere, Santa Caterina i la Ribera",19,1055,610,2
+2016-01-01,2,Eixample,5,el Fort Pienc,20,2001,663,1
+2016-01-01,2,Eixample,5,el Fort Pienc,20,2001,622,2
+2016-01-01,2,Eixample,5,el Fort Pienc,20,2002,1034,1
+2016-01-01,2,Eixample,5,el Fort Pienc,20,2002,1174,2
+2016-01-01,2,Eixample,5,el Fort Pienc,20,2003,728,1
+2016-01-01,2,Eixample,5,el Fort Pienc,20,2003,543,2
+2016-01-01,2,Eixample,5,el Fort Pienc,20,2004,754,1
+2016-01-01,2,Eixample,5,el Fort Pienc,20,2004,724,2
+2016-01-01,2,Eixample,5,el Fort Pienc,20,2005,1126,1
+2016-01-01,2,Eixample,5,el Fort Pienc,20,2005,954,2
+2016-01-01,2,Eixample,5,el Fort Pienc,20,2006,842,1
+2016-01-01,2,Eixample,5,el Fort Pienc,20,2006,769,2
+2016-01-01,2,Eixample,5,el Fort Pienc,20,2007,711,1
+2016-01-01,2,Eixample,5,el Fort Pienc,20,2007,549,2
+2016-01-01,2,Eixample,5,el Fort Pienc,20,2008,1021,1
+2016-01-01,2,Eixample,5,el Fort Pienc,20,2008,863,2
+2016-01-01,2,Eixample,5,el Fort Pienc,20,2009,948,1
+2016-01-01,2,Eixample,5,el Fort Pienc,20,2009,802,2
+2016-01-01,2,Eixample,5,el Fort Pienc,21,2010,627,1
+2016-01-01,2,Eixample,5,el Fort Pienc,21,2010,540,2
+2016-01-01,2,Eixample,5,el Fort Pienc,21,2011,569,1
+2016-01-01,2,Eixample,5,el Fort Pienc,21,2011,532,2
+2016-01-01,2,Eixample,5,el Fort Pienc,21,2012,802,1
+2016-01-01,2,Eixample,5,el Fort Pienc,21,2012,753,2
+2016-01-01,2,Eixample,5,el Fort Pienc,21,2013,598,1
+2016-01-01,2,Eixample,5,el Fort Pienc,21,2013,562,2
+2016-01-01,2,Eixample,5,el Fort Pienc,22,2014,659,1
+2016-01-01,2,Eixample,5,el Fort Pienc,22,2014,652,2
+2016-01-01,2,Eixample,5,el Fort Pienc,22,2015,814,1
+2016-01-01,2,Eixample,5,el Fort Pienc,22,2015,731,2
+2016-01-01,2,Eixample,5,el Fort Pienc,22,2016,1023,1
+2016-01-01,2,Eixample,5,el Fort Pienc,22,2016,850,2
+2016-01-01,2,Eixample,5,el Fort Pienc,22,2017,1059,1
+2016-01-01,2,Eixample,5,el Fort Pienc,22,2017,912,2
+2016-01-01,2,Eixample,5,el Fort Pienc,22,2018,983,1
+2016-01-01,2,Eixample,5,el Fort Pienc,22,2018,863,2
+2016-01-01,2,Eixample,5,el Fort Pienc,22,2019,1031,1
+2016-01-01,2,Eixample,5,el Fort Pienc,22,2019,903,2
+2016-01-01,2,Eixample,5,el Fort Pienc,22,2020,768,1
+2016-01-01,2,Eixample,5,el Fort Pienc,22,2020,635,2
+2016-01-01,2,Eixample,6,la Sagrada Família,23,2021,777,1
+2016-01-01,2,Eixample,6,la Sagrada Família,23,2021,679,2
+2016-01-01,2,Eixample,6,la Sagrada Família,23,2022,660,1
+2016-01-01,2,Eixample,6,la Sagrada Família,23,2022,618,2
+2016-01-01,2,Eixample,6,la Sagrada Família,23,2023,575,1
+2016-01-01,2,Eixample,6,la Sagrada Família,23,2023,511,2
+2016-01-01,2,Eixample,6,la Sagrada Família,23,2024,605,1
+2016-01-01,2,Eixample,6,la Sagrada Família,23,2024,490,2
+2016-01-01,2,Eixample,6,la Sagrada Família,24,2025,642,1
+2016-01-01,2,Eixample,6,la Sagrada Família,24,2025,568,2
+2016-01-01,2,Eixample,6,la Sagrada Família,24,2026,1157,1
+2016-01-01,2,Eixample,6,la Sagrada Família,24,2026,975,2
+2016-01-01,2,Eixample,6,la Sagrada Família,24,2027,1080,1
+2016-01-01,2,Eixample,6,la Sagrada Família,24,2027,891,2
+2016-01-01,2,Eixample,6,la Sagrada Família,24,2028,1101,1
+2016-01-01,2,Eixample,6,la Sagrada Família,24,2028,949,2
+2016-01-01,2,Eixample,6,la Sagrada Família,24,2029,632,1
+2016-01-01,2,Eixample,6,la Sagrada Família,24,2029,545,2
+2016-01-01,2,Eixample,6,la Sagrada Família,24,2030,659,1
+2016-01-01,2,Eixample,6,la Sagrada Família,24,2030,587,2
+2016-01-01,2,Eixample,6,la Sagrada Família,24,2031,559,1
+2016-01-01,2,Eixample,6,la Sagrada Família,24,2031,511,2
+2016-01-01,2,Eixample,6,la Sagrada Família,24,2032,713,1
+2016-01-01,2,Eixample,6,la Sagrada Família,24,2032,491,2
+2016-01-01,2,Eixample,6,la Sagrada Família,25,2033,648,1
+2016-01-01,2,Eixample,6,la Sagrada Família,25,2033,527,2
+2016-01-01,2,Eixample,6,la Sagrada Família,25,2034,644,1
+2016-01-01,2,Eixample,6,la Sagrada Família,25,2034,550,2
+2016-01-01,2,Eixample,6,la Sagrada Família,25,2035,695,1
+2016-01-01,2,Eixample,6,la Sagrada Família,25,2035,629,2
+2016-01-01,2,Eixample,6,la Sagrada Família,25,2036,657,1
+2016-01-01,2,Eixample,6,la Sagrada Família,25,2036,559,2
+2016-01-01,2,Eixample,6,la Sagrada Família,25,2037,637,1
+2016-01-01,2,Eixample,6,la Sagrada Família,25,2037,582,2
+2016-01-01,2,Eixample,6,la Sagrada Família,25,2038,853,1
+2016-01-01,2,Eixample,6,la Sagrada Família,25,2038,755,2
+2016-01-01,2,Eixample,6,la Sagrada Família,25,2039,978,1
+2016-01-01,2,Eixample,6,la Sagrada Família,25,2039,744,2
+2016-01-01,2,Eixample,6,la Sagrada Família,25,2040,887,1
+2016-01-01,2,Eixample,6,la Sagrada Família,25,2040,764,2
+2016-01-01,2,Eixample,6,la Sagrada Família,26,2041,906,1
+2016-01-01,2,Eixample,6,la Sagrada Família,26,2041,728,2
+2016-01-01,2,Eixample,6,la Sagrada Família,26,2042,895,1
+2016-01-01,2,Eixample,6,la Sagrada Família,26,2042,768,2
+2016-01-01,2,Eixample,6,la Sagrada Família,26,2043,790,1
+2016-01-01,2,Eixample,6,la Sagrada Família,26,2043,673,2
+2016-01-01,2,Eixample,6,la Sagrada Família,26,2044,706,1
+2016-01-01,2,Eixample,6,la Sagrada Família,26,2044,545,2
+2016-01-01,2,Eixample,6,la Sagrada Família,26,2045,649,1
+2016-01-01,2,Eixample,6,la Sagrada Família,26,2045,536,2
+2016-01-01,2,Eixample,6,la Sagrada Família,26,2046,1002,1
+2016-01-01,2,Eixample,6,la Sagrada Família,26,2046,848,2
+2016-01-01,2,Eixample,6,la Sagrada Família,26,2047,1020,1
+2016-01-01,2,Eixample,6,la Sagrada Família,26,2047,899,2
+2016-01-01,2,Eixample,6,la Sagrada Família,26,2048,679,1
+2016-01-01,2,Eixample,6,la Sagrada Família,26,2048,561,2
+2016-01-01,2,Eixample,6,la Sagrada Família,27,2049,1127,1
+2016-01-01,2,Eixample,6,la Sagrada Família,27,2049,922,2
+2016-01-01,2,Eixample,6,la Sagrada Família,27,2050,881,1
+2016-01-01,2,Eixample,6,la Sagrada Família,27,2050,735,2
+2016-01-01,2,Eixample,6,la Sagrada Família,27,2051,1056,1
+2016-01-01,2,Eixample,6,la Sagrada Família,27,2051,839,2
+2016-01-01,2,Eixample,6,la Sagrada Família,27,2052,999,1
+2016-01-01,2,Eixample,6,la Sagrada Família,27,2052,833,2
+2016-01-01,2,Eixample,6,la Sagrada Família,27,2053,979,1
+2016-01-01,2,Eixample,6,la Sagrada Família,27,2053,845,2
+2016-01-01,2,Eixample,6,la Sagrada Família,27,2054,1018,1
+2016-01-01,2,Eixample,6,la Sagrada Família,27,2054,831,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2055,1008,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2055,854,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2056,842,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2056,629,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2057,667,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2057,590,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2058,753,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2058,625,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2059,921,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2059,761,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2060,927,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,28,2060,777,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2061,731,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2061,586,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2062,824,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2062,706,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2063,734,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2063,469,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2064,712,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2064,633,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2065,1010,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,29,2065,861,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2066,971,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2066,839,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2067,910,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2067,770,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2068,902,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2068,754,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2069,722,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,30,2069,652,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2070,706,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2070,604,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2071,871,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2071,817,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2072,621,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,31,2072,579,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2073,876,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2073,807,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2074,611,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2074,607,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2075,665,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2075,588,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2076,883,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,32,2076,790,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,33,2077,749,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,33,2077,774,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,34,2078,786,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,34,2078,640,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,34,2079,660,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,34,2079,601,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,35,2080,785,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,35,2080,704,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,35,2081,1163,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,35,2081,972,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,36,2082,490,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,36,2082,412,2
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,36,2083,987,1
+2016-01-01,2,Eixample,7,la Dreta de l'Eixample,36,2083,804,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2084,1112,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2084,903,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2085,795,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2085,657,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2086,786,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2086,644,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2087,790,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,37,2087,637,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2088,908,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2088,738,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2089,1031,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2089,924,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2090,872,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,38,2090,790,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,39,2091,931,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,39,2091,905,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,39,2092,888,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,39,2092,949,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2093,802,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2093,762,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2094,741,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2094,692,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2095,803,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2095,722,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2096,750,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2096,655,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2097,594,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,40,2097,513,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2098,853,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2098,661,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2099,796,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2099,698,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2100,736,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2100,649,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2101,1148,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,41,2101,973,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2102,803,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2102,644,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2103,926,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2103,793,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2104,621,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2104,520,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2105,1130,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,42,2105,894,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2106,750,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2106,702,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2107,904,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2107,731,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2108,925,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2108,714,2
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2109,1110,1
+2016-01-01,2,Eixample,8,l'Antiga Esquerra de l'Eixample,43,2109,920,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2110,1006,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2110,879,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2111,964,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2111,787,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2112,740,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2112,610,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2113,1093,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2113,972,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2114,907,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,44,2114,739,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2115,747,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2115,623,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2116,572,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2116,497,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2117,643,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2117,552,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2118,792,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2118,681,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2119,690,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2119,593,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2120,638,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2120,565,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2121,668,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2121,568,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2122,611,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2122,472,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2123,579,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,45,2123,535,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2124,613,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2124,517,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2125,952,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2125,766,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2126,823,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2126,699,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2127,591,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2127,538,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2128,684,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2128,614,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2129,828,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,46,2129,709,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2130,570,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2130,545,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2131,610,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2131,573,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2132,636,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2132,571,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2133,469,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2133,387,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2134,753,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2134,642,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2135,1101,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2135,980,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2136,490,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,47,2136,413,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2137,762,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2137,648,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2138,1017,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2138,923,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2139,894,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2139,738,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2140,1019,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2140,903,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2141,682,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,48,2141,565,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2142,1106,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2142,949,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2143,644,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2143,632,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2144,784,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2144,690,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2145,621,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,49,2145,597,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2146,609,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2146,532,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2147,1190,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2147,982,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2148,854,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2148,736,2
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2149,966,1
+2016-01-01,2,Eixample,9,la Nova Esquerra de l'Eixample,50,2149,859,2
+2016-01-01,2,Eixample,10,Sant Antoni,51,2150,792,1
+2016-01-01,2,Eixample,10,Sant Antoni,51,2150,716,2
+2016-01-01,2,Eixample,10,Sant Antoni,51,2151,778,1
+2016-01-01,2,Eixample,10,Sant Antoni,51,2151,686,2
+2016-01-01,2,Eixample,10,Sant Antoni,51,2152,687,1
+2016-01-01,2,Eixample,10,Sant Antoni,51,2152,551,2
+2016-01-01,2,Eixample,10,Sant Antoni,51,2153,721,1
+2016-01-01,2,Eixample,10,Sant Antoni,51,2153,598,2
+2016-01-01,2,Eixample,10,Sant Antoni,51,2154,547,1
+2016-01-01,2,Eixample,10,Sant Antoni,51,2154,498,2
+2016-01-01,2,Eixample,10,Sant Antoni,51,2155,1018,1
+2016-01-01,2,Eixample,10,Sant Antoni,51,2155,857,2
+2016-01-01,2,Eixample,10,Sant Antoni,51,2156,676,1
+2016-01-01,2,Eixample,10,Sant Antoni,51,2156,608,2
+2016-01-01,2,Eixample,10,Sant Antoni,51,2157,646,1
+2016-01-01,2,Eixample,10,Sant Antoni,51,2157,556,2
+2016-01-01,2,Eixample,10,Sant Antoni,52,2158,846,1
+2016-01-01,2,Eixample,10,Sant Antoni,52,2158,767,2
+2016-01-01,2,Eixample,10,Sant Antoni,52,2159,956,1
+2016-01-01,2,Eixample,10,Sant Antoni,52,2159,875,2
+2016-01-01,2,Eixample,10,Sant Antoni,52,2160,1049,1
+2016-01-01,2,Eixample,10,Sant Antoni,52,2160,980,2
+2016-01-01,2,Eixample,10,Sant Antoni,52,2161,593,1
+2016-01-01,2,Eixample,10,Sant Antoni,52,2161,530,2
+2016-01-01,2,Eixample,10,Sant Antoni,52,2162,730,1
+2016-01-01,2,Eixample,10,Sant Antoni,52,2162,654,2
+2016-01-01,2,Eixample,10,Sant Antoni,53,2163,959,1
+2016-01-01,2,Eixample,10,Sant Antoni,53,2163,855,2
+2016-01-01,2,Eixample,10,Sant Antoni,53,2164,755,1
+2016-01-01,2,Eixample,10,Sant Antoni,53,2164,674,2
+2016-01-01,2,Eixample,10,Sant Antoni,53,2165,867,1
+2016-01-01,2,Eixample,10,Sant Antoni,53,2165,782,2
+2016-01-01,2,Eixample,10,Sant Antoni,54,2166,1133,1
+2016-01-01,2,Eixample,10,Sant Antoni,54,2166,1020,2
+2016-01-01,2,Eixample,10,Sant Antoni,54,2167,1103,1
+2016-01-01,2,Eixample,10,Sant Antoni,54,2167,1017,2
+2016-01-01,2,Eixample,10,Sant Antoni,54,2168,1143,1
+2016-01-01,2,Eixample,10,Sant Antoni,54,2168,1046,2
+2016-01-01,2,Eixample,10,Sant Antoni,55,2169,804,1
+2016-01-01,2,Eixample,10,Sant Antoni,55,2169,776,2
+2016-01-01,2,Eixample,10,Sant Antoni,55,2170,812,1
+2016-01-01,2,Eixample,10,Sant Antoni,55,2170,763,2
+2016-01-01,2,Eixample,10,Sant Antoni,55,2171,869,1
+2016-01-01,2,Eixample,10,Sant Antoni,55,2171,776,2
+2016-01-01,2,Eixample,10,Sant Antoni,55,2172,811,1
+2016-01-01,2,Eixample,10,Sant Antoni,55,2172,785,2
+2016-01-01,2,Eixample,10,Sant Antoni,55,2173,841,1
+2016-01-01,2,Eixample,10,Sant Antoni,55,2173,729,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3001,885,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3001,766,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3002,1045,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3002,994,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3003,866,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3003,806,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3004,808,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3004,747,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3005,635,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3005,611,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3006,689,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3006,702,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3007,900,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3007,868,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3008,641,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3008,579,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3009,647,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,56,3009,578,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3010,932,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3010,934,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3011,884,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3011,845,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3012,1086,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3012,1009,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3013,903,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3013,972,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3014,896,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3014,1011,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3015,1504,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3015,1470,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3016,597,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3016,605,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3017,806,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,57,3017,853,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3018,859,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3018,849,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3019,791,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3019,707,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3020,595,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3020,611,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3021,614,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3021,533,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3022,737,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,58,3022,705,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,59,3023,996,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,59,3023,1035,2
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,59,3024,1016,1
+2016-01-01,3,Sants-Montjuïc,11,el Poble-sec,59,3024,1007,2
+2016-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,60,3025,565,1
+2016-01-01,3,Sants-Montjuïc,12,la Marina del Prat Vermell,60,3025,581,2
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3026,503,1
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3026,492,2
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3027,936,1
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3027,865,2
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3028,1210,1
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3028,1109,2
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3029,687,1
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3029,600,2
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3030,831,1
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,61,3030,748,2
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3031,1286,1
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3031,1206,2
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3032,816,1
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3032,783,2
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3033,720,1
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3033,689,2
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3034,791,1
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3034,727,2
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3211,738,1
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,62,3211,713,2
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3035,1212,1
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3035,1105,2
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3036,1226,1
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3036,1137,2
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3037,565,1
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3037,528,2
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3212,1274,1
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3212,1125,2
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3213,1182,1
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,63,3213,1165,2
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,64,3038,538,1
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,64,3038,493,2
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,64,3039,1218,1
+2016-01-01,3,Sants-Montjuïc,13,la Marina de Port,64,3039,1179,2
+2016-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3040,789,1
+2016-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3040,729,2
+2016-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3041,744,1
+2016-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3041,642,2
+2016-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3042,705,1
+2016-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3042,675,2
+2016-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3043,884,1
+2016-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3043,748,2
+2016-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3044,1016,1
+2016-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3044,896,2
+2016-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3045,543,1
+2016-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3045,505,2
+2016-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3046,768,1
+2016-01-01,3,Sants-Montjuïc,14,la Font de la Guatlla,65,3046,672,2
+2016-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3047,946,1
+2016-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3047,861,2
+2016-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3048,715,1
+2016-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3048,659,2
+2016-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3049,894,1
+2016-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3049,804,2
+2016-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3050,812,1
+2016-01-01,3,Sants-Montjuïc,15,Hostafrancs,66,3050,772,2
+2016-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3051,940,1
+2016-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3051,870,2
+2016-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3052,678,1
+2016-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3052,619,2
+2016-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3053,1113,1
+2016-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3053,1055,2
+2016-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3054,921,1
+2016-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3054,867,2
+2016-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3055,813,1
+2016-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3055,756,2
+2016-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3056,456,1
+2016-01-01,3,Sants-Montjuïc,15,Hostafrancs,67,3056,364,2
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3057,826,1
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3057,700,2
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3058,777,1
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3058,582,2
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3059,626,1
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3059,582,2
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3060,690,1
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3060,637,2
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3061,581,1
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,68,3061,507,2
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3062,895,1
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3062,772,2
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3063,684,1
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3063,634,2
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3064,663,1
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3064,568,2
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3065,711,1
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3065,685,2
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3066,1215,1
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3066,1136,2
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3067,912,1
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3067,813,2
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3068,620,1
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3068,530,2
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3069,605,1
+2016-01-01,3,Sants-Montjuïc,16,la Bordeta,69,3069,567,2
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3070,663,1
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3070,625,2
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3071,686,1
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3071,611,2
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3072,743,1
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3072,633,2
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3073,820,1
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3073,743,2
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3074,983,1
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3074,808,2
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3075,862,1
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3075,764,2
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3076,529,1
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3076,489,2
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3077,703,1
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3077,580,2
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3078,863,1
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3078,809,2
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3079,961,1
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3079,862,2
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3080,837,1
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,70,3080,701,2
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3081,1012,1
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3081,856,2
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3082,957,1
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3082,846,2
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3083,725,1
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3083,622,2
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3084,777,1
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3084,659,2
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3085,643,1
+2016-01-01,3,Sants-Montjuïc,17,Sants - Badal,71,3085,563,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,72,3086,663,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,72,3086,597,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,72,3087,805,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,72,3087,694,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,72,3088,774,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,72,3088,659,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,72,3089,645,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,72,3089,554,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,72,3090,562,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,72,3090,489,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,72,3091,747,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,72,3091,683,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,72,3092,655,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,72,3092,620,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,72,3093,805,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,72,3093,735,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,72,3094,612,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,72,3094,531,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,73,3095,886,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,73,3095,746,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,73,3096,798,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,73,3096,716,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,73,3097,853,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,73,3097,798,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,73,3098,708,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,73,3098,659,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,73,3099,550,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,73,3099,458,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,73,3100,649,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,73,3100,588,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,74,3101,888,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,74,3101,927,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,74,3102,699,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,74,3102,627,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,74,3103,629,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,74,3103,564,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,74,3104,771,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,74,3104,684,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,75,3105,639,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,75,3105,542,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,75,3106,677,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,75,3106,566,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,76,3107,763,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,76,3107,747,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,76,3108,861,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,76,3108,721,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,76,3109,805,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,76,3109,690,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,76,3110,816,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,76,3110,722,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,76,3111,706,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,76,3111,598,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,76,3112,1003,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,76,3112,876,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,76,3113,864,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,76,3113,763,2
+2016-01-01,3,Sants-Montjuïc,18,Sants,76,3114,783,1
+2016-01-01,3,Sants-Montjuïc,18,Sants,76,3114,661,2
+2016-01-01,4,Les Corts,19,les Corts,77,4001,672,1
+2016-01-01,4,Les Corts,19,les Corts,77,4001,584,2
+2016-01-01,4,Les Corts,19,les Corts,77,4002,1013,1
+2016-01-01,4,Les Corts,19,les Corts,77,4002,912,2
+2016-01-01,4,Les Corts,19,les Corts,77,4003,551,1
+2016-01-01,4,Les Corts,19,les Corts,77,4003,545,2
+2016-01-01,4,Les Corts,19,les Corts,77,4004,548,1
+2016-01-01,4,Les Corts,19,les Corts,77,4004,464,2
+2016-01-01,4,Les Corts,19,les Corts,77,4005,659,1
+2016-01-01,4,Les Corts,19,les Corts,77,4005,581,2
+2016-01-01,4,Les Corts,19,les Corts,77,4006,612,1
+2016-01-01,4,Les Corts,19,les Corts,77,4006,532,2
+2016-01-01,4,Les Corts,19,les Corts,77,4007,601,1
+2016-01-01,4,Les Corts,19,les Corts,77,4007,465,2
+2016-01-01,4,Les Corts,19,les Corts,77,4008,543,1
+2016-01-01,4,Les Corts,19,les Corts,77,4008,453,2
+2016-01-01,4,Les Corts,19,les Corts,77,4009,766,1
+2016-01-01,4,Les Corts,19,les Corts,77,4009,642,2
+2016-01-01,4,Les Corts,19,les Corts,78,4010,512,1
+2016-01-01,4,Les Corts,19,les Corts,78,4010,432,2
+2016-01-01,4,Les Corts,19,les Corts,78,4011,869,1
+2016-01-01,4,Les Corts,19,les Corts,78,4011,791,2
+2016-01-01,4,Les Corts,19,les Corts,78,4012,754,1
+2016-01-01,4,Les Corts,19,les Corts,78,4012,648,2
+2016-01-01,4,Les Corts,19,les Corts,78,4013,688,1
+2016-01-01,4,Les Corts,19,les Corts,78,4013,565,2
+2016-01-01,4,Les Corts,19,les Corts,78,4014,445,1
+2016-01-01,4,Les Corts,19,les Corts,78,4014,381,2
+2016-01-01,4,Les Corts,19,les Corts,78,4015,1010,1
+2016-01-01,4,Les Corts,19,les Corts,78,4015,875,2
+2016-01-01,4,Les Corts,19,les Corts,78,4016,575,1
+2016-01-01,4,Les Corts,19,les Corts,78,4016,506,2
+2016-01-01,4,Les Corts,19,les Corts,79,4017,601,1
+2016-01-01,4,Les Corts,19,les Corts,79,4017,509,2
+2016-01-01,4,Les Corts,19,les Corts,79,4018,834,1
+2016-01-01,4,Les Corts,19,les Corts,79,4018,686,2
+2016-01-01,4,Les Corts,19,les Corts,79,4019,708,1
+2016-01-01,4,Les Corts,19,les Corts,79,4019,601,2
+2016-01-01,4,Les Corts,19,les Corts,79,4020,769,1
+2016-01-01,4,Les Corts,19,les Corts,79,4020,669,2
+2016-01-01,4,Les Corts,19,les Corts,79,4021,688,1
+2016-01-01,4,Les Corts,19,les Corts,79,4021,579,2
+2016-01-01,4,Les Corts,19,les Corts,80,4022,835,1
+2016-01-01,4,Les Corts,19,les Corts,80,4022,722,2
+2016-01-01,4,Les Corts,19,les Corts,81,4023,581,1
+2016-01-01,4,Les Corts,19,les Corts,81,4023,516,2
+2016-01-01,4,Les Corts,19,les Corts,81,4024,560,1
+2016-01-01,4,Les Corts,19,les Corts,81,4024,502,2
+2016-01-01,4,Les Corts,19,les Corts,82,4025,625,1
+2016-01-01,4,Les Corts,19,les Corts,82,4025,548,2
+2016-01-01,4,Les Corts,19,les Corts,82,4026,752,1
+2016-01-01,4,Les Corts,19,les Corts,82,4026,618,2
+2016-01-01,4,Les Corts,19,les Corts,82,4027,624,1
+2016-01-01,4,Les Corts,19,les Corts,82,4027,549,2
+2016-01-01,4,Les Corts,19,les Corts,83,4028,718,1
+2016-01-01,4,Les Corts,19,les Corts,83,4028,647,2
+2016-01-01,4,Les Corts,19,les Corts,83,4029,633,1
+2016-01-01,4,Les Corts,19,les Corts,83,4029,538,2
+2016-01-01,4,Les Corts,19,les Corts,83,4030,938,1
+2016-01-01,4,Les Corts,19,les Corts,83,4030,797,2
+2016-01-01,4,Les Corts,19,les Corts,84,4031,865,1
+2016-01-01,4,Les Corts,19,les Corts,84,4031,983,2
+2016-01-01,4,Les Corts,19,les Corts,84,4032,844,1
+2016-01-01,4,Les Corts,19,les Corts,84,4032,695,2
+2016-01-01,4,Les Corts,19,les Corts,84,4033,632,1
+2016-01-01,4,Les Corts,19,les Corts,84,4033,536,2
+2016-01-01,4,Les Corts,19,les Corts,84,4034,786,1
+2016-01-01,4,Les Corts,19,les Corts,84,4034,694,2
+2016-01-01,4,Les Corts,19,les Corts,84,4035,756,1
+2016-01-01,4,Les Corts,19,les Corts,84,4035,644,2
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4036,933,1
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4036,783,2
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4037,1131,1
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4037,971,2
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4038,696,1
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4038,595,2
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4039,656,1
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4039,576,2
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4040,860,1
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4040,728,2
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4041,696,1
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4041,617,2
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4042,910,1
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,85,4042,811,2
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4043,908,1
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4043,752,2
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4044,840,1
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4044,766,2
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4045,752,1
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4045,656,2
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4046,1264,1
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4046,1211,2
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4047,895,1
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,86,4047,800,2
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4048,823,1
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4048,709,2
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4049,628,1
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4049,536,2
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4084,734,1
+2016-01-01,4,Les Corts,20,la Maternitat i Sant Ramon,87,4084,631,2
+2016-01-01,4,Les Corts,21,Pedralbes,88,4050,1108,1
+2016-01-01,4,Les Corts,21,Pedralbes,88,4050,972,2
+2016-01-01,4,Les Corts,21,Pedralbes,88,4051,884,1
+2016-01-01,4,Les Corts,21,Pedralbes,88,4051,728,2
+2016-01-01,4,Les Corts,21,Pedralbes,88,4052,1163,1
+2016-01-01,4,Les Corts,21,Pedralbes,88,4052,971,2
+2016-01-01,4,Les Corts,21,Pedralbes,89,4053,843,1
+2016-01-01,4,Les Corts,21,Pedralbes,89,4053,766,2
+2016-01-01,4,Les Corts,21,Pedralbes,89,4054,573,1
+2016-01-01,4,Les Corts,21,Pedralbes,89,4054,518,2
+2016-01-01,4,Les Corts,21,Pedralbes,90,4055,815,1
+2016-01-01,4,Les Corts,21,Pedralbes,90,4055,756,2
+2016-01-01,4,Les Corts,21,Pedralbes,90,4056,926,1
+2016-01-01,4,Les Corts,21,Pedralbes,90,4056,841,2
+2016-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",91,5001,842,1
+2016-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",91,5001,852,2
+2016-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",92,5002,822,1
+2016-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",92,5002,759,2
+2016-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",92,5003,692,1
+2016-01-01,5,Sarrià-Sant Gervasi,22,"Vallvidrera, el Tibidabo i les Planes",92,5003,674,2
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,93,5004,647,1
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,93,5004,474,2
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,93,5005,585,1
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,93,5005,560,2
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,94,5006,878,1
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,94,5006,894,2
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5007,841,1
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5007,798,2
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5008,860,1
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5008,751,2
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5009,940,1
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5009,774,2
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5010,895,1
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5010,761,2
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5011,764,1
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5011,648,2
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5012,762,1
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5012,638,2
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5013,898,1
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,95,5013,813,2
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5014,893,1
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5014,817,2
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5015,862,1
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5015,710,2
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5016,1023,1
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5016,847,2
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5017,847,1
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5017,743,2
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5018,665,1
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5018,533,2
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5019,903,1
+2016-01-01,5,Sarrià-Sant Gervasi,23,Sarrià,96,5019,786,2
+2016-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,97,5020,618,1
+2016-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,97,5020,497,2
+2016-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,97,5021,708,1
+2016-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,97,5021,603,2
+2016-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5022,994,1
+2016-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5022,764,2
+2016-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5023,822,1
+2016-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5023,652,2
+2016-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5024,1022,1
+2016-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,98,5024,880,2
+2016-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5025,731,1
+2016-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5025,625,2
+2016-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5026,732,1
+2016-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5026,690,2
+2016-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5027,709,1
+2016-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5027,674,2
+2016-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5028,822,1
+2016-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5028,760,2
+2016-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5029,891,1
+2016-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5029,829,2
+2016-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5030,787,1
+2016-01-01,5,Sarrià-Sant Gervasi,24,les Tres Torres,99,5030,676,2
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,100,5031,896,1
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,100,5031,737,2
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,100,5032,960,1
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,100,5032,829,2
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,101,5033,732,1
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,101,5033,635,2
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,101,5034,691,1
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,101,5034,517,2
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5035,569,1
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5035,540,2
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5036,908,1
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5036,822,2
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5037,798,1
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5037,627,2
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5038,687,1
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5038,591,2
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5039,828,1
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5039,710,2
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5040,799,1
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5040,644,2
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5041,969,1
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,102,5041,952,2
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5042,649,1
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5042,574,2
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5043,771,1
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5043,681,2
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5044,700,1
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5044,603,2
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5045,863,1
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5045,717,2
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5046,659,1
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5046,516,2
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5047,700,1
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5047,588,2
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5048,719,1
+2016-01-01,5,Sarrià-Sant Gervasi,25,Sant Gervasi - la Bonanova,103,5048,580,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5049,905,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5049,760,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5050,884,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5050,786,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5051,873,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5051,778,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5052,845,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,104,5052,679,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5053,807,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5053,697,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5054,576,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5054,452,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5055,756,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,105,5055,669,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5056,710,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5056,502,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5057,905,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5057,801,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5058,867,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5058,734,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5059,925,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5059,703,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5060,618,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,106,5060,510,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5061,806,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5061,644,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5062,883,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5062,683,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5063,866,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5063,714,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5064,886,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5064,705,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5065,910,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,107,5065,738,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5066,668,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5066,535,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5067,703,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5067,588,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5068,827,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5068,699,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5069,930,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,108,5069,769,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5070,810,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5070,646,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5071,875,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5071,711,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5072,922,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5072,722,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5073,890,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5073,713,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5074,910,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,109,5074,789,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5075,999,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5075,765,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5076,732,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5076,604,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5077,818,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5077,651,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5078,1095,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5078,970,2
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5079,690,1
+2016-01-01,5,Sarrià-Sant Gervasi,26,Sant Gervasi - Galvany,110,5079,548,2
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5080,765,1
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5080,602,2
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5081,897,1
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5081,708,2
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5082,904,1
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5082,754,2
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5083,701,1
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5083,596,2
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5084,745,1
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5084,594,2
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5085,696,1
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5085,613,2
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5086,723,1
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5086,616,2
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5087,859,1
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,111,5087,678,2
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5088,902,1
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5088,822,2
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5089,909,1
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5089,799,2
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5090,1002,1
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5090,879,2
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5091,862,1
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5091,669,2
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5092,823,1
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,112,5092,672,2
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5093,643,1
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5093,510,2
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5094,1427,1
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5094,1164,2
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5095,899,1
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5095,715,2
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5096,596,1
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5096,488,2
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5097,846,1
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5097,753,2
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5098,810,1
+2016-01-01,5,Sarrià-Sant Gervasi,27,el Putxet i el Farró,113,5098,677,2
+2016-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6001,635,1
+2016-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6001,512,2
+2016-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6002,786,1
+2016-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6002,669,2
+2016-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6003,1166,1
+2016-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6003,1062,2
+2016-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6004,749,1
+2016-01-01,6,Gràcia,28,Vallcarca i els Penitents,114,6004,715,2
+2016-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6006,545,1
+2016-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6006,464,2
+2016-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6007,971,1
+2016-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6007,857,2
+2016-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6008,1054,1
+2016-01-01,6,Gràcia,28,Vallcarca i els Penitents,115,6008,832,2
+2016-01-01,6,Gràcia,28,Vallcarca i els Penitents,116,6009,651,1
+2016-01-01,6,Gràcia,28,Vallcarca i els Penitents,116,6009,584,2
+2016-01-01,6,Gràcia,28,Vallcarca i els Penitents,116,6010,549,1
+2016-01-01,6,Gràcia,28,Vallcarca i els Penitents,116,6010,479,2
+2016-01-01,6,Gràcia,28,Vallcarca i els Penitents,117,6011,665,1
+2016-01-01,6,Gràcia,28,Vallcarca i els Penitents,117,6011,581,2
+2016-01-01,6,Gràcia,28,Vallcarca i els Penitents,117,6012,590,1
+2016-01-01,6,Gràcia,28,Vallcarca i els Penitents,117,6012,513,2
+2016-01-01,6,Gràcia,29,el Coll,118,6013,904,1
+2016-01-01,6,Gràcia,29,el Coll,118,6013,817,2
+2016-01-01,6,Gràcia,29,el Coll,118,6014,722,1
+2016-01-01,6,Gràcia,29,el Coll,118,6014,625,2
+2016-01-01,6,Gràcia,29,el Coll,118,6015,740,1
+2016-01-01,6,Gràcia,29,el Coll,118,6015,651,2
+2016-01-01,6,Gràcia,29,el Coll,118,6016,862,1
+2016-01-01,6,Gràcia,29,el Coll,118,6016,746,2
+2016-01-01,6,Gràcia,29,el Coll,118,6017,701,1
+2016-01-01,6,Gràcia,29,el Coll,118,6017,623,2
+2016-01-01,6,Gràcia,30,la Salut,119,6018,656,1
+2016-01-01,6,Gràcia,30,la Salut,119,6018,622,2
+2016-01-01,6,Gràcia,30,la Salut,119,6019,821,1
+2016-01-01,6,Gràcia,30,la Salut,119,6019,692,2
+2016-01-01,6,Gràcia,30,la Salut,119,6020,599,1
+2016-01-01,6,Gràcia,30,la Salut,119,6020,526,2
+2016-01-01,6,Gràcia,30,la Salut,119,6021,744,1
+2016-01-01,6,Gràcia,30,la Salut,119,6021,612,2
+2016-01-01,6,Gràcia,30,la Salut,120,6022,678,1
+2016-01-01,6,Gràcia,30,la Salut,120,6022,664,2
+2016-01-01,6,Gràcia,30,la Salut,120,6023,688,1
+2016-01-01,6,Gràcia,30,la Salut,120,6023,628,2
+2016-01-01,6,Gràcia,30,la Salut,120,6024,895,1
+2016-01-01,6,Gràcia,30,la Salut,120,6024,688,2
+2016-01-01,6,Gràcia,30,la Salut,120,6025,789,1
+2016-01-01,6,Gràcia,30,la Salut,120,6025,624,2
+2016-01-01,6,Gràcia,30,la Salut,120,6026,555,1
+2016-01-01,6,Gràcia,30,la Salut,120,6026,464,2
+2016-01-01,6,Gràcia,30,la Salut,120,6027,664,1
+2016-01-01,6,Gràcia,30,la Salut,120,6027,514,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,121,6028,704,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,121,6028,623,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,121,6029,684,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,121,6029,560,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,121,6030,735,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,121,6030,618,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,121,6031,613,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,121,6031,476,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,121,6032,617,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,121,6032,551,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,122,6033,702,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,122,6033,596,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,122,6034,711,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,122,6034,561,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,122,6035,562,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,122,6035,459,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,122,6036,775,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,122,6036,609,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,123,6037,602,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,123,6037,505,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,123,6038,850,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,123,6038,639,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,123,6039,898,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,123,6039,693,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,124,6040,962,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,124,6040,686,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,124,6041,924,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,124,6041,766,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,124,6042,940,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,124,6042,803,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,125,6043,692,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,125,6043,570,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,125,6044,770,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,125,6044,670,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,126,6045,724,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,126,6045,595,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,126,6046,620,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,126,6046,512,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,126,6047,895,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,126,6047,916,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,126,6048,763,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,126,6048,658,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,127,6049,620,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,127,6049,508,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,127,6050,652,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,127,6050,583,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,127,6051,743,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,127,6051,578,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,128,6052,836,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,128,6052,730,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,128,6053,800,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,128,6053,682,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,128,6054,878,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,128,6054,765,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,129,6055,798,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,129,6055,615,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,129,6056,836,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,129,6056,723,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,129,6057,841,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,129,6057,672,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,129,6058,907,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,129,6058,721,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,129,6059,772,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,129,6059,681,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,130,6060,955,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,130,6060,829,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,130,6061,713,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,130,6061,595,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,130,6062,706,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,130,6062,616,2
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,130,6063,802,1
+2016-01-01,6,Gràcia,31,la Vila de Gràcia,130,6063,704,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6064,1049,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6064,873,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6065,643,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6065,544,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6066,538,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6066,436,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6067,980,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6067,810,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6068,835,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6068,659,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6069,588,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6069,509,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6070,1049,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,131,6070,822,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6071,575,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6071,501,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6072,890,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6072,710,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6073,749,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6073,654,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6074,599,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6074,532,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6075,580,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6075,502,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6076,654,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,132,6076,628,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6077,673,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6077,516,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6078,689,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6078,614,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6079,622,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6079,524,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6080,620,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6080,543,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6081,698,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,133,6081,576,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6082,992,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6082,792,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6083,906,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6083,826,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6084,788,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6084,677,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6085,685,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6085,555,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6086,517,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6086,454,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6087,1036,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6087,848,2
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6088,670,1
+2016-01-01,6,Gràcia,32,el Camp d'en Grassot i Gràcia Nova,134,6088,545,2
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7001,869,1
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7001,713,2
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7002,614,1
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7002,530,2
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7003,694,1
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7003,605,2
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7004,813,1
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7004,708,2
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7005,770,1
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7005,683,2
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7006,511,1
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7006,437,2
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7007,789,1
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7007,635,2
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7008,711,1
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,135,7008,684,2
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7009,653,1
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7009,525,2
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7010,700,1
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7010,638,2
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7011,615,1
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7011,508,2
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7012,861,1
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7012,718,2
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7013,635,1
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,136,7013,570,2
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7014,479,1
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7014,428,2
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7015,738,1
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7015,645,2
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7016,672,1
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7016,654,2
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7017,933,1
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7017,713,2
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7018,909,1
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7018,737,2
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7019,788,1
+2016-01-01,7,Horta-Guinardó,33,el Baix Guinardó,137,7019,678,2
+2016-01-01,7,Horta-Guinardó,34,Can Baró,138,7020,854,1
+2016-01-01,7,Horta-Guinardó,34,Can Baró,138,7020,734,2
+2016-01-01,7,Horta-Guinardó,34,Can Baró,138,7021,528,1
+2016-01-01,7,Horta-Guinardó,34,Can Baró,138,7021,499,2
+2016-01-01,7,Horta-Guinardó,34,Can Baró,138,7022,596,1
+2016-01-01,7,Horta-Guinardó,34,Can Baró,138,7022,546,2
+2016-01-01,7,Horta-Guinardó,34,Can Baró,138,7023,668,1
+2016-01-01,7,Horta-Guinardó,34,Can Baró,138,7023,649,2
+2016-01-01,7,Horta-Guinardó,34,Can Baró,138,7024,759,1
+2016-01-01,7,Horta-Guinardó,34,Can Baró,138,7024,675,2
+2016-01-01,7,Horta-Guinardó,34,Can Baró,138,7025,759,1
+2016-01-01,7,Horta-Guinardó,34,Can Baró,138,7025,648,2
+2016-01-01,7,Horta-Guinardó,34,Can Baró,138,7026,566,1
+2016-01-01,7,Horta-Guinardó,34,Can Baró,138,7026,488,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,139,7027,1064,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,139,7027,909,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,139,7028,772,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,139,7028,700,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,139,7029,649,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,139,7029,640,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,139,7030,747,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,139,7030,623,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,140,7031,805,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,140,7031,740,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,140,7032,681,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,140,7032,668,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,140,7033,734,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,140,7033,648,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,140,7034,883,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,140,7034,793,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,140,7035,968,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,140,7035,776,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,140,7036,737,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,140,7036,621,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,140,7037,809,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,140,7037,665,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,140,7038,711,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,140,7038,609,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,141,7039,829,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,141,7039,731,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,141,7040,793,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,141,7040,678,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,141,7041,742,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,141,7041,590,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,142,7042,846,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,142,7042,700,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,142,7043,731,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,142,7043,639,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,142,7044,690,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,142,7044,608,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,142,7045,772,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,142,7045,710,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,142,7046,761,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,142,7046,655,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,143,7047,756,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,143,7047,670,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,143,7048,672,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,143,7048,543,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,143,7049,640,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,143,7049,589,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,143,7050,609,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,143,7050,528,2
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,143,7051,951,1
+2016-01-01,7,Horta-Guinardó,35,el Guinardó,143,7051,791,2
+2016-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7052,653,1
+2016-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7052,568,2
+2016-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7053,763,1
+2016-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7053,700,2
+2016-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7054,811,1
+2016-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,144,7054,729,2
+2016-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7055,617,1
+2016-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7055,566,2
+2016-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7056,600,1
+2016-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7056,566,2
+2016-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7057,782,1
+2016-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7057,669,2
+2016-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7058,704,1
+2016-01-01,7,Horta-Guinardó,36,la Font d'en Fargues,145,7058,674,2
+2016-01-01,7,Horta-Guinardó,37,el Carmel,146,7059,678,1
+2016-01-01,7,Horta-Guinardó,37,el Carmel,146,7059,610,2
+2016-01-01,7,Horta-Guinardó,37,el Carmel,146,7060,923,1
+2016-01-01,7,Horta-Guinardó,37,el Carmel,146,7060,904,2
+2016-01-01,7,Horta-Guinardó,37,el Carmel,147,7061,596,1
+2016-01-01,7,Horta-Guinardó,37,el Carmel,147,7061,609,2
+2016-01-01,7,Horta-Guinardó,37,el Carmel,147,7062,673,1
+2016-01-01,7,Horta-Guinardó,37,el Carmel,147,7062,613,2
+2016-01-01,7,Horta-Guinardó,37,el Carmel,147,7063,729,1
+2016-01-01,7,Horta-Guinardó,37,el Carmel,147,7063,709,2
+2016-01-01,7,Horta-Guinardó,37,el Carmel,147,7064,851,1
+2016-01-01,7,Horta-Guinardó,37,el Carmel,147,7064,785,2
+2016-01-01,7,Horta-Guinardó,37,el Carmel,147,7065,829,1
+2016-01-01,7,Horta-Guinardó,37,el Carmel,147,7065,776,2
+2016-01-01,7,Horta-Guinardó,37,el Carmel,147,7066,922,1
+2016-01-01,7,Horta-Guinardó,37,el Carmel,147,7066,826,2
+2016-01-01,7,Horta-Guinardó,37,el Carmel,147,7067,794,1
+2016-01-01,7,Horta-Guinardó,37,el Carmel,147,7067,690,2
+2016-01-01,7,Horta-Guinardó,37,el Carmel,147,7068,649,1
+2016-01-01,7,Horta-Guinardó,37,el Carmel,147,7068,568,2
+2016-01-01,7,Horta-Guinardó,37,el Carmel,147,7069,739,1
+2016-01-01,7,Horta-Guinardó,37,el Carmel,147,7069,713,2
+2016-01-01,7,Horta-Guinardó,37,el Carmel,147,7070,715,1
+2016-01-01,7,Horta-Guinardó,37,el Carmel,147,7070,640,2
+2016-01-01,7,Horta-Guinardó,37,el Carmel,148,7071,704,1
+2016-01-01,7,Horta-Guinardó,37,el Carmel,148,7071,615,2
+2016-01-01,7,Horta-Guinardó,37,el Carmel,148,7072,715,1
+2016-01-01,7,Horta-Guinardó,37,el Carmel,148,7072,652,2
+2016-01-01,7,Horta-Guinardó,37,el Carmel,148,7073,599,1
+2016-01-01,7,Horta-Guinardó,37,el Carmel,148,7073,472,2
+2016-01-01,7,Horta-Guinardó,37,el Carmel,148,7074,900,1
+2016-01-01,7,Horta-Guinardó,37,el Carmel,148,7074,811,2
+2016-01-01,7,Horta-Guinardó,37,el Carmel,148,7075,638,1
+2016-01-01,7,Horta-Guinardó,37,el Carmel,148,7075,598,2
+2016-01-01,7,Horta-Guinardó,37,el Carmel,148,7076,690,1
+2016-01-01,7,Horta-Guinardó,37,el Carmel,148,7076,638,2
+2016-01-01,7,Horta-Guinardó,37,el Carmel,148,7077,687,1
+2016-01-01,7,Horta-Guinardó,37,el Carmel,148,7077,637,2
+2016-01-01,7,Horta-Guinardó,37,el Carmel,148,7078,670,1
+2016-01-01,7,Horta-Guinardó,37,el Carmel,148,7078,657,2
+2016-01-01,7,Horta-Guinardó,37,el Carmel,148,7079,707,1
+2016-01-01,7,Horta-Guinardó,37,el Carmel,148,7079,660,2
+2016-01-01,7,Horta-Guinardó,37,el Carmel,148,7080,952,1
+2016-01-01,7,Horta-Guinardó,37,el Carmel,148,7080,834,2
+2016-01-01,7,Horta-Guinardó,38,la Teixonera,149,7081,991,1
+2016-01-01,7,Horta-Guinardó,38,la Teixonera,149,7081,940,2
+2016-01-01,7,Horta-Guinardó,38,la Teixonera,149,7082,641,1
+2016-01-01,7,Horta-Guinardó,38,la Teixonera,149,7082,612,2
+2016-01-01,7,Horta-Guinardó,38,la Teixonera,149,7083,644,1
+2016-01-01,7,Horta-Guinardó,38,la Teixonera,149,7083,594,2
+2016-01-01,7,Horta-Guinardó,38,la Teixonera,149,7084,658,1
+2016-01-01,7,Horta-Guinardó,38,la Teixonera,149,7084,634,2
+2016-01-01,7,Horta-Guinardó,38,la Teixonera,149,7085,666,1
+2016-01-01,7,Horta-Guinardó,38,la Teixonera,149,7085,610,2
+2016-01-01,7,Horta-Guinardó,38,la Teixonera,149,7086,736,1
+2016-01-01,7,Horta-Guinardó,38,la Teixonera,149,7086,693,2
+2016-01-01,7,Horta-Guinardó,38,la Teixonera,149,7087,810,1
+2016-01-01,7,Horta-Guinardó,38,la Teixonera,149,7087,743,2
+2016-01-01,7,Horta-Guinardó,38,la Teixonera,149,7088,670,1
+2016-01-01,7,Horta-Guinardó,38,la Teixonera,149,7088,639,2
+2016-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7089,726,1
+2016-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7089,586,2
+2016-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7090,702,1
+2016-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7090,683,2
+2016-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7091,602,1
+2016-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7091,534,2
+2016-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7092,729,1
+2016-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7092,588,2
+2016-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7093,821,1
+2016-01-01,7,Horta-Guinardó,39,Sant Genís dels Agudells,150,7093,724,2
+2016-01-01,7,Horta-Guinardó,40,Montbau,151,7094,705,1
+2016-01-01,7,Horta-Guinardó,40,Montbau,151,7094,539,2
+2016-01-01,7,Horta-Guinardó,40,Montbau,151,7095,820,1
+2016-01-01,7,Horta-Guinardó,40,Montbau,151,7095,684,2
+2016-01-01,7,Horta-Guinardó,40,Montbau,151,7096,749,1
+2016-01-01,7,Horta-Guinardó,40,Montbau,151,7096,632,2
+2016-01-01,7,Horta-Guinardó,40,Montbau,151,7097,528,1
+2016-01-01,7,Horta-Guinardó,40,Montbau,151,7097,396,2
+2016-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7098,1092,1
+2016-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7098,972,2
+2016-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7099,562,1
+2016-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7099,520,2
+2016-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7100,636,1
+2016-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7100,543,2
+2016-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7101,703,1
+2016-01-01,7,Horta-Guinardó,41,la Vall d'Hebron,152,7101,659,2
+2016-01-01,7,Horta-Guinardó,42,la Clota,153,7102,282,1
+2016-01-01,7,Horta-Guinardó,42,la Clota,153,7102,308,2
+2016-01-01,7,Horta-Guinardó,43,Horta,154,7103,762,1
+2016-01-01,7,Horta-Guinardó,43,Horta,154,7103,674,2
+2016-01-01,7,Horta-Guinardó,43,Horta,154,7104,836,1
+2016-01-01,7,Horta-Guinardó,43,Horta,154,7104,736,2
+2016-01-01,7,Horta-Guinardó,43,Horta,154,7105,570,1
+2016-01-01,7,Horta-Guinardó,43,Horta,154,7105,515,2
+2016-01-01,7,Horta-Guinardó,43,Horta,154,7106,612,1
+2016-01-01,7,Horta-Guinardó,43,Horta,154,7106,540,2
+2016-01-01,7,Horta-Guinardó,43,Horta,154,7107,650,1
+2016-01-01,7,Horta-Guinardó,43,Horta,154,7107,604,2
+2016-01-01,7,Horta-Guinardó,43,Horta,154,7108,623,1
+2016-01-01,7,Horta-Guinardó,43,Horta,154,7108,588,2
+2016-01-01,7,Horta-Guinardó,43,Horta,154,7109,859,1
+2016-01-01,7,Horta-Guinardó,43,Horta,154,7109,762,2
+2016-01-01,7,Horta-Guinardó,43,Horta,154,7110,599,1
+2016-01-01,7,Horta-Guinardó,43,Horta,154,7110,446,2
+2016-01-01,7,Horta-Guinardó,43,Horta,154,7111,491,1
+2016-01-01,7,Horta-Guinardó,43,Horta,154,7111,388,2
+2016-01-01,7,Horta-Guinardó,43,Horta,155,7112,657,1
+2016-01-01,7,Horta-Guinardó,43,Horta,155,7112,585,2
+2016-01-01,7,Horta-Guinardó,43,Horta,155,7113,610,1
+2016-01-01,7,Horta-Guinardó,43,Horta,155,7113,588,2
+2016-01-01,7,Horta-Guinardó,43,Horta,155,7114,643,1
+2016-01-01,7,Horta-Guinardó,43,Horta,155,7114,542,2
+2016-01-01,7,Horta-Guinardó,43,Horta,155,7115,569,1
+2016-01-01,7,Horta-Guinardó,43,Horta,155,7115,593,2
+2016-01-01,7,Horta-Guinardó,43,Horta,155,7116,772,1
+2016-01-01,7,Horta-Guinardó,43,Horta,155,7116,688,2
+2016-01-01,7,Horta-Guinardó,43,Horta,155,7117,718,1
+2016-01-01,7,Horta-Guinardó,43,Horta,155,7117,879,2
+2016-01-01,7,Horta-Guinardó,43,Horta,155,7118,702,1
+2016-01-01,7,Horta-Guinardó,43,Horta,155,7118,534,2
+2016-01-01,7,Horta-Guinardó,43,Horta,156,7119,642,1
+2016-01-01,7,Horta-Guinardó,43,Horta,156,7119,528,2
+2016-01-01,7,Horta-Guinardó,43,Horta,156,7120,649,1
+2016-01-01,7,Horta-Guinardó,43,Horta,156,7120,552,2
+2016-01-01,7,Horta-Guinardó,43,Horta,156,7121,646,1
+2016-01-01,7,Horta-Guinardó,43,Horta,156,7121,537,2
+2016-01-01,7,Horta-Guinardó,43,Horta,156,7122,736,1
+2016-01-01,7,Horta-Guinardó,43,Horta,156,7122,593,2
+2016-01-01,7,Horta-Guinardó,43,Horta,156,7123,723,1
+2016-01-01,7,Horta-Guinardó,43,Horta,156,7123,656,2
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8001,691,1
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8001,601,2
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8002,674,1
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8002,591,2
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8003,638,1
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8003,582,2
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8004,761,1
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8004,646,2
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8005,613,1
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8005,538,2
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8006,782,1
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8006,690,2
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8007,666,1
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8007,520,2
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8008,841,1
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,157,8008,738,2
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,158,8009,889,1
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,158,8009,776,2
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8010,602,1
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8010,524,2
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8011,648,1
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8011,541,2
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8012,730,1
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8012,597,2
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8013,657,1
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8013,544,2
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8014,630,1
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,159,8014,543,2
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8015,774,1
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8015,612,2
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8016,636,1
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8016,513,2
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8017,711,1
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8017,633,2
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8018,858,1
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8018,722,2
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8019,979,1
+2016-01-01,8,Nou Barris,44,Vilapicina i la Torre Llobeta,160,8019,831,2
+2016-01-01,8,Nou Barris,45,Porta,161,8020,684,1
+2016-01-01,8,Nou Barris,45,Porta,161,8020,568,2
+2016-01-01,8,Nou Barris,45,Porta,161,8021,788,1
+2016-01-01,8,Nou Barris,45,Porta,161,8021,655,2
+2016-01-01,8,Nou Barris,45,Porta,161,8022,664,1
+2016-01-01,8,Nou Barris,45,Porta,161,8022,558,2
+2016-01-01,8,Nou Barris,45,Porta,161,8023,708,1
+2016-01-01,8,Nou Barris,45,Porta,161,8023,638,2
+2016-01-01,8,Nou Barris,45,Porta,161,8024,765,1
+2016-01-01,8,Nou Barris,45,Porta,161,8024,633,2
+2016-01-01,8,Nou Barris,45,Porta,161,8025,662,1
+2016-01-01,8,Nou Barris,45,Porta,161,8025,526,2
+2016-01-01,8,Nou Barris,45,Porta,161,8026,749,1
+2016-01-01,8,Nou Barris,45,Porta,161,8026,643,2
+2016-01-01,8,Nou Barris,45,Porta,162,8027,646,1
+2016-01-01,8,Nou Barris,45,Porta,162,8027,644,2
+2016-01-01,8,Nou Barris,45,Porta,162,8028,597,1
+2016-01-01,8,Nou Barris,45,Porta,162,8028,496,2
+2016-01-01,8,Nou Barris,45,Porta,162,8029,816,1
+2016-01-01,8,Nou Barris,45,Porta,162,8029,698,2
+2016-01-01,8,Nou Barris,45,Porta,162,8030,758,1
+2016-01-01,8,Nou Barris,45,Porta,162,8030,689,2
+2016-01-01,8,Nou Barris,45,Porta,163,8031,675,1
+2016-01-01,8,Nou Barris,45,Porta,163,8031,622,2
+2016-01-01,8,Nou Barris,45,Porta,163,8032,692,1
+2016-01-01,8,Nou Barris,45,Porta,163,8032,598,2
+2016-01-01,8,Nou Barris,45,Porta,163,8033,731,1
+2016-01-01,8,Nou Barris,45,Porta,163,8033,686,2
+2016-01-01,8,Nou Barris,45,Porta,163,8034,667,1
+2016-01-01,8,Nou Barris,45,Porta,163,8034,530,2
+2016-01-01,8,Nou Barris,45,Porta,163,8035,861,1
+2016-01-01,8,Nou Barris,45,Porta,163,8035,939,2
+2016-01-01,8,Nou Barris,45,Porta,163,8036,776,1
+2016-01-01,8,Nou Barris,45,Porta,163,8036,676,2
+2016-01-01,8,Nou Barris,45,Porta,163,8037,836,1
+2016-01-01,8,Nou Barris,45,Porta,163,8037,693,2
+2016-01-01,8,Nou Barris,46,el Turó de la Peira,164,8038,824,1
+2016-01-01,8,Nou Barris,46,el Turó de la Peira,164,8038,649,2
+2016-01-01,8,Nou Barris,46,el Turó de la Peira,164,8039,829,1
+2016-01-01,8,Nou Barris,46,el Turó de la Peira,164,8039,690,2
+2016-01-01,8,Nou Barris,46,el Turó de la Peira,164,8040,881,1
+2016-01-01,8,Nou Barris,46,el Turó de la Peira,164,8040,777,2
+2016-01-01,8,Nou Barris,46,el Turó de la Peira,164,8041,1209,1
+2016-01-01,8,Nou Barris,46,el Turó de la Peira,164,8041,1122,2
+2016-01-01,8,Nou Barris,46,el Turó de la Peira,164,8042,701,1
+2016-01-01,8,Nou Barris,46,el Turó de la Peira,164,8042,589,2
+2016-01-01,8,Nou Barris,46,el Turó de la Peira,164,8043,640,1
+2016-01-01,8,Nou Barris,46,el Turó de la Peira,164,8043,508,2
+2016-01-01,8,Nou Barris,46,el Turó de la Peira,165,8044,710,1
+2016-01-01,8,Nou Barris,46,el Turó de la Peira,165,8044,634,2
+2016-01-01,8,Nou Barris,46,el Turó de la Peira,165,8045,887,1
+2016-01-01,8,Nou Barris,46,el Turó de la Peira,165,8045,797,2
+2016-01-01,8,Nou Barris,46,el Turó de la Peira,165,8046,744,1
+2016-01-01,8,Nou Barris,46,el Turó de la Peira,165,8046,600,2
+2016-01-01,8,Nou Barris,46,el Turó de la Peira,165,8047,819,1
+2016-01-01,8,Nou Barris,46,el Turó de la Peira,165,8047,724,2
+2016-01-01,8,Nou Barris,47,Can Peguera,166,8048,546,1
+2016-01-01,8,Nou Barris,47,Can Peguera,166,8048,478,2
+2016-01-01,8,Nou Barris,47,Can Peguera,166,8049,645,1
+2016-01-01,8,Nou Barris,47,Can Peguera,166,8049,586,2
+2016-01-01,8,Nou Barris,48,la Guineueta,167,8050,754,1
+2016-01-01,8,Nou Barris,48,la Guineueta,167,8050,671,2
+2016-01-01,8,Nou Barris,48,la Guineueta,167,8051,696,1
+2016-01-01,8,Nou Barris,48,la Guineueta,167,8051,644,2
+2016-01-01,8,Nou Barris,48,la Guineueta,167,8052,482,1
+2016-01-01,8,Nou Barris,48,la Guineueta,167,8052,383,2
+2016-01-01,8,Nou Barris,48,la Guineueta,167,8053,590,1
+2016-01-01,8,Nou Barris,48,la Guineueta,167,8053,538,2
+2016-01-01,8,Nou Barris,48,la Guineueta,167,8054,927,1
+2016-01-01,8,Nou Barris,48,la Guineueta,167,8054,745,2
+2016-01-01,8,Nou Barris,48,la Guineueta,167,8055,985,1
+2016-01-01,8,Nou Barris,48,la Guineueta,167,8055,899,2
+2016-01-01,8,Nou Barris,48,la Guineueta,167,8215,785,1
+2016-01-01,8,Nou Barris,48,la Guineueta,167,8215,631,2
+2016-01-01,8,Nou Barris,48,la Guineueta,168,8056,767,1
+2016-01-01,8,Nou Barris,48,la Guineueta,168,8056,670,2
+2016-01-01,8,Nou Barris,48,la Guineueta,168,8057,693,1
+2016-01-01,8,Nou Barris,48,la Guineueta,168,8057,631,2
+2016-01-01,8,Nou Barris,48,la Guineueta,168,8058,858,1
+2016-01-01,8,Nou Barris,48,la Guineueta,168,8058,729,2
+2016-01-01,8,Nou Barris,48,la Guineueta,168,8059,512,1
+2016-01-01,8,Nou Barris,48,la Guineueta,168,8059,460,2
+2016-01-01,8,Nou Barris,49,Canyelles,169,8060,623,1
+2016-01-01,8,Nou Barris,49,Canyelles,169,8060,558,2
+2016-01-01,8,Nou Barris,49,Canyelles,169,8061,861,1
+2016-01-01,8,Nou Barris,49,Canyelles,169,8061,842,2
+2016-01-01,8,Nou Barris,49,Canyelles,169,8062,617,1
+2016-01-01,8,Nou Barris,49,Canyelles,169,8062,567,2
+2016-01-01,8,Nou Barris,49,Canyelles,169,8063,589,1
+2016-01-01,8,Nou Barris,49,Canyelles,169,8063,533,2
+2016-01-01,8,Nou Barris,49,Canyelles,169,8064,917,1
+2016-01-01,8,Nou Barris,49,Canyelles,169,8064,818,2
+2016-01-01,8,Nou Barris,50,les Roquetes,170,8065,806,1
+2016-01-01,8,Nou Barris,50,les Roquetes,170,8065,856,2
+2016-01-01,8,Nou Barris,50,les Roquetes,170,8066,795,1
+2016-01-01,8,Nou Barris,50,les Roquetes,170,8066,778,2
+2016-01-01,8,Nou Barris,50,les Roquetes,170,8067,810,1
+2016-01-01,8,Nou Barris,50,les Roquetes,170,8067,782,2
+2016-01-01,8,Nou Barris,50,les Roquetes,170,8068,970,1
+2016-01-01,8,Nou Barris,50,les Roquetes,170,8068,850,2
+2016-01-01,8,Nou Barris,50,les Roquetes,170,8069,749,1
+2016-01-01,8,Nou Barris,50,les Roquetes,170,8069,709,2
+2016-01-01,8,Nou Barris,50,les Roquetes,171,8070,738,1
+2016-01-01,8,Nou Barris,50,les Roquetes,171,8070,670,2
+2016-01-01,8,Nou Barris,50,les Roquetes,171,8071,837,1
+2016-01-01,8,Nou Barris,50,les Roquetes,171,8071,772,2
+2016-01-01,8,Nou Barris,50,les Roquetes,171,8072,631,1
+2016-01-01,8,Nou Barris,50,les Roquetes,171,8072,560,2
+2016-01-01,8,Nou Barris,50,les Roquetes,171,8073,894,1
+2016-01-01,8,Nou Barris,50,les Roquetes,171,8073,780,2
+2016-01-01,8,Nou Barris,50,les Roquetes,171,8074,735,1
+2016-01-01,8,Nou Barris,50,les Roquetes,171,8074,688,2
+2016-01-01,8,Nou Barris,51,Verdun,172,8075,964,1
+2016-01-01,8,Nou Barris,51,Verdun,172,8075,857,2
+2016-01-01,8,Nou Barris,51,Verdun,172,8076,824,1
+2016-01-01,8,Nou Barris,51,Verdun,172,8076,743,2
+2016-01-01,8,Nou Barris,51,Verdun,172,8077,746,1
+2016-01-01,8,Nou Barris,51,Verdun,172,8077,658,2
+2016-01-01,8,Nou Barris,51,Verdun,173,8078,811,1
+2016-01-01,8,Nou Barris,51,Verdun,173,8078,692,2
+2016-01-01,8,Nou Barris,51,Verdun,173,8079,753,1
+2016-01-01,8,Nou Barris,51,Verdun,173,8079,637,2
+2016-01-01,8,Nou Barris,51,Verdun,173,8080,801,1
+2016-01-01,8,Nou Barris,51,Verdun,173,8080,663,2
+2016-01-01,8,Nou Barris,51,Verdun,173,8081,824,1
+2016-01-01,8,Nou Barris,51,Verdun,173,8081,735,2
+2016-01-01,8,Nou Barris,51,Verdun,173,8082,851,1
+2016-01-01,8,Nou Barris,51,Verdun,173,8082,702,2
+2016-01-01,8,Nou Barris,52,la Prosperitat,174,8083,675,1
+2016-01-01,8,Nou Barris,52,la Prosperitat,174,8083,583,2
+2016-01-01,8,Nou Barris,52,la Prosperitat,174,8084,621,1
+2016-01-01,8,Nou Barris,52,la Prosperitat,174,8084,540,2
+2016-01-01,8,Nou Barris,52,la Prosperitat,174,8085,731,1
+2016-01-01,8,Nou Barris,52,la Prosperitat,174,8085,676,2
+2016-01-01,8,Nou Barris,52,la Prosperitat,174,8086,888,1
+2016-01-01,8,Nou Barris,52,la Prosperitat,174,8086,780,2
+2016-01-01,8,Nou Barris,52,la Prosperitat,175,8087,662,1
+2016-01-01,8,Nou Barris,52,la Prosperitat,175,8087,560,2
+2016-01-01,8,Nou Barris,52,la Prosperitat,175,8088,660,1
+2016-01-01,8,Nou Barris,52,la Prosperitat,175,8088,584,2
+2016-01-01,8,Nou Barris,52,la Prosperitat,175,8089,656,1
+2016-01-01,8,Nou Barris,52,la Prosperitat,175,8089,575,2
+2016-01-01,8,Nou Barris,52,la Prosperitat,175,8090,654,1
+2016-01-01,8,Nou Barris,52,la Prosperitat,175,8090,574,2
+2016-01-01,8,Nou Barris,52,la Prosperitat,175,8091,586,1
+2016-01-01,8,Nou Barris,52,la Prosperitat,175,8091,584,2
+2016-01-01,8,Nou Barris,52,la Prosperitat,176,8092,506,1
+2016-01-01,8,Nou Barris,52,la Prosperitat,176,8092,502,2
+2016-01-01,8,Nou Barris,52,la Prosperitat,176,8093,638,1
+2016-01-01,8,Nou Barris,52,la Prosperitat,176,8093,611,2
+2016-01-01,8,Nou Barris,52,la Prosperitat,176,8094,782,1
+2016-01-01,8,Nou Barris,52,la Prosperitat,176,8094,721,2
+2016-01-01,8,Nou Barris,52,la Prosperitat,176,8095,572,1
+2016-01-01,8,Nou Barris,52,la Prosperitat,176,8095,525,2
+2016-01-01,8,Nou Barris,52,la Prosperitat,177,8096,729,1
+2016-01-01,8,Nou Barris,52,la Prosperitat,177,8096,696,2
+2016-01-01,8,Nou Barris,52,la Prosperitat,177,8097,699,1
+2016-01-01,8,Nou Barris,52,la Prosperitat,177,8097,639,2
+2016-01-01,8,Nou Barris,52,la Prosperitat,177,8098,647,1
+2016-01-01,8,Nou Barris,52,la Prosperitat,177,8098,588,2
+2016-01-01,8,Nou Barris,52,la Prosperitat,177,8099,690,1
+2016-01-01,8,Nou Barris,52,la Prosperitat,177,8099,650,2
+2016-01-01,8,Nou Barris,52,la Prosperitat,177,8100,685,1
+2016-01-01,8,Nou Barris,52,la Prosperitat,177,8100,557,2
+2016-01-01,8,Nou Barris,52,la Prosperitat,177,8101,918,1
+2016-01-01,8,Nou Barris,52,la Prosperitat,177,8101,777,2
+2016-01-01,8,Nou Barris,52,la Prosperitat,177,8102,793,1
+2016-01-01,8,Nou Barris,52,la Prosperitat,177,8102,670,2
+2016-01-01,8,Nou Barris,53,la Trinitat Nova,178,8103,751,1
+2016-01-01,8,Nou Barris,53,la Trinitat Nova,178,8103,753,2
+2016-01-01,8,Nou Barris,53,la Trinitat Nova,178,8104,682,1
+2016-01-01,8,Nou Barris,53,la Trinitat Nova,178,8104,544,2
+2016-01-01,8,Nou Barris,53,la Trinitat Nova,178,8105,827,1
+2016-01-01,8,Nou Barris,53,la Trinitat Nova,178,8105,766,2
+2016-01-01,8,Nou Barris,53,la Trinitat Nova,178,8106,617,1
+2016-01-01,8,Nou Barris,53,la Trinitat Nova,178,8106,548,2
+2016-01-01,8,Nou Barris,53,la Trinitat Nova,178,8107,921,1
+2016-01-01,8,Nou Barris,53,la Trinitat Nova,178,8107,850,2
+2016-01-01,8,Nou Barris,54,Torre Baró,179,8108,909,1
+2016-01-01,8,Nou Barris,54,Torre Baró,179,8108,882,2
+2016-01-01,8,Nou Barris,54,Torre Baró,179,8109,490,1
+2016-01-01,8,Nou Barris,54,Torre Baró,179,8109,514,2
+2016-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8110,895,1
+2016-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8110,915,2
+2016-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8111,791,1
+2016-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8111,710,2
+2016-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8112,814,1
+2016-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8112,798,2
+2016-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8113,843,1
+2016-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8113,848,2
+2016-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8114,917,1
+2016-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8114,914,2
+2016-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8115,833,1
+2016-01-01,8,Nou Barris,55,Ciutat Meridiana,180,8115,777,2
+2016-01-01,8,Nou Barris,56,Vallbona,181,8116,695,1
+2016-01-01,8,Nou Barris,56,Vallbona,181,8116,659,2
+2016-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9001,1209,1
+2016-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9001,1407,2
+2016-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9002,1000,1
+2016-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9002,1109,2
+2016-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9003,987,1
+2016-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9003,1090,2
+2016-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9004,855,1
+2016-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9004,818,2
+2016-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9005,790,1
+2016-01-01,9,Sant Andreu,57,la Trinitat Vella,182,9005,783,2
+2016-01-01,9,Sant Andreu,58,Baró de Viver,183,9006,634,1
+2016-01-01,9,Sant Andreu,58,Baró de Viver,183,9006,603,2
+2016-01-01,9,Sant Andreu,58,Baró de Viver,183,9007,647,1
+2016-01-01,9,Sant Andreu,58,Baró de Viver,183,9007,627,2
+2016-01-01,9,Sant Andreu,59,el Bon Pastor,184,9008,949,1
+2016-01-01,9,Sant Andreu,59,el Bon Pastor,184,9008,962,2
+2016-01-01,9,Sant Andreu,59,el Bon Pastor,184,9009,727,1
+2016-01-01,9,Sant Andreu,59,el Bon Pastor,184,9009,691,2
+2016-01-01,9,Sant Andreu,59,el Bon Pastor,185,9010,934,1
+2016-01-01,9,Sant Andreu,59,el Bon Pastor,185,9010,866,2
+2016-01-01,9,Sant Andreu,59,el Bon Pastor,185,9011,915,1
+2016-01-01,9,Sant Andreu,59,el Bon Pastor,185,9011,886,2
+2016-01-01,9,Sant Andreu,59,el Bon Pastor,185,9013,975,1
+2016-01-01,9,Sant Andreu,59,el Bon Pastor,185,9013,908,2
+2016-01-01,9,Sant Andreu,59,el Bon Pastor,185,9014,880,1
+2016-01-01,9,Sant Andreu,59,el Bon Pastor,185,9014,1092,2
+2016-01-01,9,Sant Andreu,59,el Bon Pastor,185,9015,917,1
+2016-01-01,9,Sant Andreu,59,el Bon Pastor,185,9015,892,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,186,9016,741,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,186,9016,660,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,186,9017,774,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,186,9017,717,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,186,9018,766,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,186,9018,708,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,186,9019,1207,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,186,9019,1161,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,186,9020,599,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,186,9020,520,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,186,9021,737,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,186,9021,652,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,186,9022,620,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,186,9022,569,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,186,9023,620,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,186,9023,576,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,187,9024,612,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,187,9024,512,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,187,9025,618,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,187,9025,537,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,187,9026,805,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,187,9026,718,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,187,9027,696,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,187,9027,657,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,188,9028,824,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,188,9028,795,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,188,9029,607,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,188,9029,556,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,188,9030,802,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,188,9030,684,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,188,9031,612,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,188,9031,558,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,189,9032,1063,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,189,9032,937,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,189,9033,1623,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,189,9033,1531,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,190,9034,734,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,190,9034,660,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,190,9035,804,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,190,9035,712,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,190,9036,753,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,190,9036,658,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,190,9037,729,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,190,9037,615,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,190,9038,847,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,190,9038,749,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,190,9039,813,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,190,9039,739,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,191,9040,833,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,191,9040,699,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,191,9041,770,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,191,9041,651,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,191,9042,644,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,191,9042,564,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,191,9043,720,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,191,9043,620,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,191,9044,768,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,191,9044,708,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,191,9045,767,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,191,9045,681,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,192,9046,679,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,192,9046,618,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,192,9047,786,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,192,9047,675,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,192,9048,727,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,192,9048,673,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,192,9049,701,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,192,9049,581,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,192,9050,841,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,192,9050,738,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,192,9051,654,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,192,9051,573,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,192,9052,598,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,192,9052,553,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,192,9053,854,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,192,9053,684,2
+2016-01-01,9,Sant Andreu,60,Sant Andreu,192,9054,616,1
+2016-01-01,9,Sant Andreu,60,Sant Andreu,192,9054,532,2
+2016-01-01,9,Sant Andreu,61,la Sagrera,193,9055,890,1
+2016-01-01,9,Sant Andreu,61,la Sagrera,193,9055,798,2
+2016-01-01,9,Sant Andreu,61,la Sagrera,193,9056,619,1
+2016-01-01,9,Sant Andreu,61,la Sagrera,193,9056,519,2
+2016-01-01,9,Sant Andreu,61,la Sagrera,193,9057,805,1
+2016-01-01,9,Sant Andreu,61,la Sagrera,193,9057,713,2
+2016-01-01,9,Sant Andreu,61,la Sagrera,193,9058,778,1
+2016-01-01,9,Sant Andreu,61,la Sagrera,193,9058,680,2
+2016-01-01,9,Sant Andreu,61,la Sagrera,193,9059,709,1
+2016-01-01,9,Sant Andreu,61,la Sagrera,193,9059,682,2
+2016-01-01,9,Sant Andreu,61,la Sagrera,193,9060,734,1
+2016-01-01,9,Sant Andreu,61,la Sagrera,193,9060,633,2
+2016-01-01,9,Sant Andreu,61,la Sagrera,193,9156,665,1
+2016-01-01,9,Sant Andreu,61,la Sagrera,193,9156,591,2
+2016-01-01,9,Sant Andreu,61,la Sagrera,194,9061,889,1
+2016-01-01,9,Sant Andreu,61,la Sagrera,194,9061,820,2
+2016-01-01,9,Sant Andreu,61,la Sagrera,194,9062,571,1
+2016-01-01,9,Sant Andreu,61,la Sagrera,194,9062,538,2
+2016-01-01,9,Sant Andreu,61,la Sagrera,195,9063,576,1
+2016-01-01,9,Sant Andreu,61,la Sagrera,195,9063,547,2
+2016-01-01,9,Sant Andreu,61,la Sagrera,195,9064,640,1
+2016-01-01,9,Sant Andreu,61,la Sagrera,195,9064,559,2
+2016-01-01,9,Sant Andreu,61,la Sagrera,195,9065,1107,1
+2016-01-01,9,Sant Andreu,61,la Sagrera,195,9065,905,2
+2016-01-01,9,Sant Andreu,61,la Sagrera,195,9066,739,1
+2016-01-01,9,Sant Andreu,61,la Sagrera,195,9066,672,2
+2016-01-01,9,Sant Andreu,61,la Sagrera,195,9067,758,1
+2016-01-01,9,Sant Andreu,61,la Sagrera,195,9067,612,2
+2016-01-01,9,Sant Andreu,61,la Sagrera,196,9068,803,1
+2016-01-01,9,Sant Andreu,61,la Sagrera,196,9068,748,2
+2016-01-01,9,Sant Andreu,61,la Sagrera,196,9069,507,1
+2016-01-01,9,Sant Andreu,61,la Sagrera,196,9069,403,2
+2016-01-01,9,Sant Andreu,61,la Sagrera,196,9070,958,1
+2016-01-01,9,Sant Andreu,61,la Sagrera,196,9070,811,2
+2016-01-01,9,Sant Andreu,61,la Sagrera,196,9071,977,1
+2016-01-01,9,Sant Andreu,61,la Sagrera,196,9071,837,2
+2016-01-01,9,Sant Andreu,61,la Sagrera,196,9072,801,1
+2016-01-01,9,Sant Andreu,61,la Sagrera,196,9072,669,2
+2016-01-01,9,Sant Andreu,61,la Sagrera,196,9073,802,1
+2016-01-01,9,Sant Andreu,61,la Sagrera,196,9073,739,2
+2016-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9074,879,1
+2016-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9074,720,2
+2016-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9075,807,1
+2016-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9075,667,2
+2016-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9076,773,1
+2016-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9076,619,2
+2016-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9077,885,1
+2016-01-01,9,Sant Andreu,62,el Congrés i els Indians,197,9077,674,2
+2016-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9078,758,1
+2016-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9078,674,2
+2016-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9079,855,1
+2016-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9079,735,2
+2016-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9080,675,1
+2016-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9080,643,2
+2016-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9081,984,1
+2016-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9081,809,2
+2016-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9082,1038,1
+2016-01-01,9,Sant Andreu,62,el Congrés i els Indians,198,9082,856,2
+2016-01-01,9,Sant Andreu,63,Navas,199,9083,872,1
+2016-01-01,9,Sant Andreu,63,Navas,199,9083,760,2
+2016-01-01,9,Sant Andreu,63,Navas,199,9084,888,1
+2016-01-01,9,Sant Andreu,63,Navas,199,9084,823,2
+2016-01-01,9,Sant Andreu,63,Navas,199,9085,884,1
+2016-01-01,9,Sant Andreu,63,Navas,199,9085,757,2
+2016-01-01,9,Sant Andreu,63,Navas,199,9086,794,1
+2016-01-01,9,Sant Andreu,63,Navas,199,9086,654,2
+2016-01-01,9,Sant Andreu,63,Navas,199,9087,684,1
+2016-01-01,9,Sant Andreu,63,Navas,199,9087,602,2
+2016-01-01,9,Sant Andreu,63,Navas,199,9088,1061,1
+2016-01-01,9,Sant Andreu,63,Navas,199,9088,878,2
+2016-01-01,9,Sant Andreu,63,Navas,199,9089,808,1
+2016-01-01,9,Sant Andreu,63,Navas,199,9089,651,2
+2016-01-01,9,Sant Andreu,63,Navas,200,9090,892,1
+2016-01-01,9,Sant Andreu,63,Navas,200,9090,739,2
+2016-01-01,9,Sant Andreu,63,Navas,200,9091,976,1
+2016-01-01,9,Sant Andreu,63,Navas,200,9091,885,2
+2016-01-01,9,Sant Andreu,63,Navas,200,9092,1030,1
+2016-01-01,9,Sant Andreu,63,Navas,200,9092,951,2
+2016-01-01,9,Sant Andreu,63,Navas,200,9093,699,1
+2016-01-01,9,Sant Andreu,63,Navas,200,9093,638,2
+2016-01-01,9,Sant Andreu,63,Navas,200,9094,1072,1
+2016-01-01,9,Sant Andreu,63,Navas,200,9094,990,2
+2016-01-01,9,Sant Andreu,63,Navas,200,9095,1121,1
+2016-01-01,9,Sant Andreu,63,Navas,200,9095,988,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10001,837,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10001,770,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10002,901,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10002,824,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10003,808,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10003,776,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10004,829,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10004,679,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10005,881,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,201,10005,744,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10006,935,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10006,785,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10007,688,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10007,653,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10008,952,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10008,789,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10009,837,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10009,729,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10010,927,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10010,777,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10011,629,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,202,10011,554,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10012,951,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10012,879,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10013,771,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10013,638,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10014,754,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10014,652,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10015,947,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10015,858,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10016,665,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10016,615,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10017,927,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10017,788,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10018,708,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,203,10018,642,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10019,873,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10019,772,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10020,787,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10020,689,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10021,696,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10021,626,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10022,673,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10022,603,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10023,788,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10023,664,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10024,770,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10024,705,2
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10025,764,1
+2016-01-01,10,Sant Martí,64,el Camp de l'Arpa del Clot,204,10025,621,2
+2016-01-01,10,Sant Martí,65,el Clot,205,10026,775,1
+2016-01-01,10,Sant Martí,65,el Clot,205,10026,711,2
+2016-01-01,10,Sant Martí,65,el Clot,205,10027,815,1
+2016-01-01,10,Sant Martí,65,el Clot,205,10027,737,2
+2016-01-01,10,Sant Martí,65,el Clot,205,10028,921,1
+2016-01-01,10,Sant Martí,65,el Clot,205,10028,874,2
+2016-01-01,10,Sant Martí,65,el Clot,205,10029,754,1
+2016-01-01,10,Sant Martí,65,el Clot,205,10029,698,2
+2016-01-01,10,Sant Martí,65,el Clot,205,10030,915,1
+2016-01-01,10,Sant Martí,65,el Clot,205,10030,794,2
+2016-01-01,10,Sant Martí,65,el Clot,205,10031,788,1
+2016-01-01,10,Sant Martí,65,el Clot,205,10031,749,2
+2016-01-01,10,Sant Martí,65,el Clot,206,10032,766,1
+2016-01-01,10,Sant Martí,65,el Clot,206,10032,707,2
+2016-01-01,10,Sant Martí,65,el Clot,206,10033,496,1
+2016-01-01,10,Sant Martí,65,el Clot,206,10033,396,2
+2016-01-01,10,Sant Martí,65,el Clot,206,10034,873,1
+2016-01-01,10,Sant Martí,65,el Clot,206,10034,839,2
+2016-01-01,10,Sant Martí,65,el Clot,206,10035,1047,1
+2016-01-01,10,Sant Martí,65,el Clot,206,10035,993,2
+2016-01-01,10,Sant Martí,65,el Clot,206,10036,735,1
+2016-01-01,10,Sant Martí,65,el Clot,206,10036,735,2
+2016-01-01,10,Sant Martí,65,el Clot,206,10037,553,1
+2016-01-01,10,Sant Martí,65,el Clot,206,10037,507,2
+2016-01-01,10,Sant Martí,65,el Clot,206,10234,1012,1
+2016-01-01,10,Sant Martí,65,el Clot,206,10234,880,2
+2016-01-01,10,Sant Martí,65,el Clot,207,10038,843,1
+2016-01-01,10,Sant Martí,65,el Clot,207,10038,783,2
+2016-01-01,10,Sant Martí,65,el Clot,207,10039,953,1
+2016-01-01,10,Sant Martí,65,el Clot,207,10039,814,2
+2016-01-01,10,Sant Martí,65,el Clot,207,10040,986,1
+2016-01-01,10,Sant Martí,65,el Clot,207,10040,924,2
+2016-01-01,10,Sant Martí,65,el Clot,207,10041,785,1
+2016-01-01,10,Sant Martí,65,el Clot,207,10041,770,2
+2016-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,208,10042,1278,1
+2016-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,208,10042,1201,2
+2016-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,208,10043,966,1
+2016-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,208,10043,967,2
+2016-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10044,767,1
+2016-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10044,733,2
+2016-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10045,691,1
+2016-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10045,564,2
+2016-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10046,656,1
+2016-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10046,605,2
+2016-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10047,941,1
+2016-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10047,935,2
+2016-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10048,841,1
+2016-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10048,777,2
+2016-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10049,671,1
+2016-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10049,633,2
+2016-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10050,870,1
+2016-01-01,10,Sant Martí,66,el Parc i la Llacuna del Poblenou,209,10050,763,2
+2016-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10051,831,1
+2016-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10051,747,2
+2016-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10052,1187,1
+2016-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10052,1179,2
+2016-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10053,914,1
+2016-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10053,905,2
+2016-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10054,508,1
+2016-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,210,10054,468,2
+2016-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,211,10055,1326,1
+2016-01-01,10,Sant Martí,67,la Vila Olímpica del Poblenou,211,10055,1281,2
+2016-01-01,10,Sant Martí,68,el Poblenou,212,10056,944,1
+2016-01-01,10,Sant Martí,68,el Poblenou,212,10056,918,2
+2016-01-01,10,Sant Martí,68,el Poblenou,212,10057,672,1
+2016-01-01,10,Sant Martí,68,el Poblenou,212,10057,692,2
+2016-01-01,10,Sant Martí,68,el Poblenou,212,10058,584,1
+2016-01-01,10,Sant Martí,68,el Poblenou,212,10058,552,2
+2016-01-01,10,Sant Martí,68,el Poblenou,213,10059,855,1
+2016-01-01,10,Sant Martí,68,el Poblenou,213,10059,798,2
+2016-01-01,10,Sant Martí,68,el Poblenou,213,10060,786,1
+2016-01-01,10,Sant Martí,68,el Poblenou,213,10060,835,2
+2016-01-01,10,Sant Martí,68,el Poblenou,213,10061,949,1
+2016-01-01,10,Sant Martí,68,el Poblenou,213,10061,857,2
+2016-01-01,10,Sant Martí,68,el Poblenou,213,10062,788,1
+2016-01-01,10,Sant Martí,68,el Poblenou,213,10062,753,2
+2016-01-01,10,Sant Martí,68,el Poblenou,214,10063,640,1
+2016-01-01,10,Sant Martí,68,el Poblenou,214,10063,593,2
+2016-01-01,10,Sant Martí,68,el Poblenou,214,10064,853,1
+2016-01-01,10,Sant Martí,68,el Poblenou,214,10064,850,2
+2016-01-01,10,Sant Martí,68,el Poblenou,214,10065,797,1
+2016-01-01,10,Sant Martí,68,el Poblenou,214,10065,782,2
+2016-01-01,10,Sant Martí,68,el Poblenou,214,10066,1080,1
+2016-01-01,10,Sant Martí,68,el Poblenou,214,10066,1056,2
+2016-01-01,10,Sant Martí,68,el Poblenou,214,10067,1044,1
+2016-01-01,10,Sant Martí,68,el Poblenou,214,10067,932,2
+2016-01-01,10,Sant Martí,68,el Poblenou,214,10068,814,1
+2016-01-01,10,Sant Martí,68,el Poblenou,214,10068,792,2
+2016-01-01,10,Sant Martí,68,el Poblenou,215,10069,1164,1
+2016-01-01,10,Sant Martí,68,el Poblenou,215,10069,1036,2
+2016-01-01,10,Sant Martí,68,el Poblenou,215,10070,908,1
+2016-01-01,10,Sant Martí,68,el Poblenou,215,10070,763,2
+2016-01-01,10,Sant Martí,68,el Poblenou,215,10071,912,1
+2016-01-01,10,Sant Martí,68,el Poblenou,215,10071,882,2
+2016-01-01,10,Sant Martí,68,el Poblenou,215,10072,1050,1
+2016-01-01,10,Sant Martí,68,el Poblenou,215,10072,1016,2
+2016-01-01,10,Sant Martí,68,el Poblenou,215,10073,784,1
+2016-01-01,10,Sant Martí,68,el Poblenou,215,10073,702,2
+2016-01-01,10,Sant Martí,68,el Poblenou,215,10074,870,1
+2016-01-01,10,Sant Martí,68,el Poblenou,215,10074,819,2
+2016-01-01,10,Sant Martí,68,el Poblenou,215,10075,753,1
+2016-01-01,10,Sant Martí,68,el Poblenou,215,10075,748,2
+2016-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10076,1093,1
+2016-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10076,991,2
+2016-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10235,705,1
+2016-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10235,618,2
+2016-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10236,863,1
+2016-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,216,10236,772,2
+2016-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10077,915,1
+2016-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10077,959,2
+2016-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10078,1133,1
+2016-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10078,1124,2
+2016-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10079,916,1
+2016-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,217,10079,858,2
+2016-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,218,10080,1225,1
+2016-01-01,10,Sant Martí,69,Diagonal Mar i el Front Marítim del Poblenou,218,10080,1244,2
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10081,949,1
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10081,944,2
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10082,897,1
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10082,1033,2
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10083,944,1
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10083,1242,2
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10084,802,1
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,219,10084,827,2
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10085,946,1
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10085,1054,2
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10086,993,1
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10086,987,2
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10087,902,1
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10087,864,2
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10088,828,1
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,220,10088,783,2
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,221,10089,898,1
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,221,10089,895,2
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10090,741,1
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10090,664,2
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10091,1010,1
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10091,957,2
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10092,795,1
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10092,717,2
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10093,556,1
+2016-01-01,10,Sant Martí,70,el Besòs i el Maresme,222,10093,555,2
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,223,10094,1379,1
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,223,10094,1349,2
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,223,10095,658,1
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,223,10095,661,2
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10096,831,1
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10096,745,2
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10097,824,1
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10097,770,2
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10098,981,1
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10098,902,2
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10099,560,1
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10099,537,2
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10100,842,1
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,224,10100,741,2
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10101,709,1
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10101,744,2
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10102,1327,1
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10102,1210,2
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10103,1151,1
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10103,1046,2
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10104,857,1
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10104,798,2
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10237,425,1
+2016-01-01,10,Sant Martí,71,Provençals del Poblenou,225,10237,334,2
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10105,1212,1
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10105,1066,2
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10106,525,1
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10106,465,2
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10107,818,1
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10107,720,2
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10108,710,1
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10108,619,2
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10109,826,1
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10109,702,2
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10110,898,1
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,226,10110,729,2
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10111,689,1
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10111,599,2
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10112,804,1
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10112,766,2
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10113,622,1
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10113,560,2
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10114,750,1
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,227,10114,654,2
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10115,733,1
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10115,735,2
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10116,992,1
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10116,883,2
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10117,671,1
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10117,622,2
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10118,527,1
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10118,474,2
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10119,600,1
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,228,10119,529,2
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10120,807,1
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10120,642,2
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10121,819,1
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10121,732,2
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10122,788,1
+2016-01-01,10,Sant Martí,72,Sant Martí de Provençals,229,10122,743,2
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10123,727,1
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10123,677,2
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10124,561,1
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10124,549,2
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10125,583,1
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10125,542,2
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10126,560,1
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10126,504,2
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10127,508,1
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10127,504,2
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10128,867,1
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10128,755,2
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10129,605,1
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,230,10129,583,2
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10130,646,1
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10130,556,2
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10131,629,1
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10131,556,2
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10132,661,1
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10132,582,2
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10133,904,1
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10133,792,2
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10134,834,1
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10134,703,2
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10135,656,1
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,231,10135,589,2
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10136,705,1
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10136,666,2
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10137,816,1
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10137,740,2
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10138,810,1
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10138,731,2
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10139,832,1
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,232,10139,793,2
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10140,850,1
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10140,731,2
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10141,578,1
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10141,519,2
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10142,839,1
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10142,729,2
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10143,896,1
+2016-01-01,10,Sant Martí,73,la Verneda i la Pau,233,10143,805,2

@@ -1,0 +1,74 @@
+"Any","Codi_districte","Nom_districte","Codi_barri","Nom_barri","Taxa_mil_hab","Nombre"
+2018,1,"Ciutat Vella",1,"el Raval","Taxa per mil habitants",121.389622561131
+2018,1,"Ciutat Vella",2,"el Barri Gòtic","Taxa per mil habitants",206.323590938976
+2018,1,"Ciutat Vella",3,"la Barceloneta","Taxa per mil habitants",114.051156794898
+2018,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Taxa per mil habitants",127.063150340868
+2018,2,"Eixample",5,"el Fort Pienc","Taxa per mil habitants",75.4651964162646
+2018,2,"Eixample",6,"la Sagrada Família","Taxa per mil habitants",74.2378494204734
+2018,2,"Eixample",7,"la Dreta de l'Eixample","Taxa per mil habitants",75.3296968860043
+2018,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Taxa per mil habitants",86.0176823342577
+2018,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Taxa per mil habitants",67.5430565392389
+2018,2,"Eixample",10,"Sant Antoni","Taxa per mil habitants",69.2832764505119
+2018,3,"Sants-Montjuïc",11,"el Poble Sec","Taxa per mil habitants",84.2105263157895
+2018,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Taxa per mil habitants",45.7685664939551
+2018,3,"Sants-Montjuïc",13,"la Marina de Port","Taxa per mil habitants",55.4468362687541
+2018,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Taxa per mil habitants",68.2483889865261
+2018,3,"Sants-Montjuïc",15,"Hostafrancs","Taxa per mil habitants",81.2716399118665
+2018,3,"Sants-Montjuïc",16,"la Bordeta","Taxa per mil habitants",60.2505998400427
+2018,3,"Sants-Montjuïc",17,"Sants - Badal","Taxa per mil habitants",68.8098323648677
+2018,3,"Sants-Montjuïc",18,"Sants","Taxa per mil habitants",78.4704338953404
+2018,4,"Les Corts",19,"les Corts","Taxa per mil habitants",52.4391040292562
+2018,4,"Les Corts",20,"la Maternitat i Sant Ramon","Taxa per mil habitants",57.9728370221328
+2018,4,"Les Corts",21,"Pedralbes","Taxa per mil habitants",54.4314381270903
+2018,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Taxa per mil habitants",30.2256279267773
+2018,5,"Sarrià-Sant Gervasi",23,"Sarrià","Taxa per mil habitants",48.4884884884885
+2018,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Taxa per mil habitants",43.7079731027858
+2018,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Taxa per mil habitants",51.4886164623468
+2018,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Taxa per mil habitants",49.1868722948271
+2018,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Taxa per mil habitants",50.1457923645487
+2018,6,"Gràcia",28,"Vallcarca i els Penitents","Taxa per mil habitants",44.6906275571222
+2018,6,"Gràcia",29,"el Coll","Taxa per mil habitants",48.875723710785
+2018,6,"Gràcia",30,"la Salut","Taxa per mil habitants",51.544050862852
+2018,6,"Gràcia",31,"la Vila de Gràcia","Taxa per mil habitants",69.588865781475
+2018,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Taxa per mil habitants",56.8883989440399
+2018,7,"Horta-Guinardó",33,"el Baix Guinardó","Taxa per mil habitants",49.3673350204399
+2018,7,"Horta-Guinardó",34,"Can Baró","Taxa per mil habitants",51.2990602542841
+2018,7,"Horta-Guinardó",35,"el Guinardó","Taxa per mil habitants",49.0518812743151
+2018,7,"Horta-Guinardó",36,"la Font d'en Fargues","Taxa per mil habitants",30.8589607635207
+2018,7,"Horta-Guinardó",37,"el Carmel","Taxa per mil habitants",47.7360809150203
+2018,7,"Horta-Guinardó",38,"la Teixonera","Taxa per mil habitants",47.052740434333
+2018,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Taxa per mil habitants",67.0940170940171
+2018,7,"Horta-Guinardó",40,"Montbau","Taxa per mil habitants",59.4371186774257
+2018,7,"Horta-Guinardó",41,"la Vall d'Hebron","Taxa per mil habitants",36.6364270760642
+2018,7,"Horta-Guinardó",42,"la Clota","Taxa per mil habitants",52.3076923076923
+2018,7,"Horta-Guinardó",43,"Horta","Taxa per mil habitants",56.2380970163188
+2018,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Taxa per mil habitants",46.8585262993479
+2018,8,"Nou Barris",45,"Porta","Taxa per mil habitants",71.465033180194
+2018,8,"Nou Barris",46,"el Turó de la Peira","Taxa per mil habitants",55.2695920730923
+2018,8,"Nou Barris",47,"Can Peguera","Taxa per mil habitants",24.2504409171076
+2018,8,"Nou Barris",48,"la Guineueta","Taxa per mil habitants",31.3666426560147
+2018,8,"Nou Barris",49,"Canyelles","Taxa per mil habitants",24.7128943160343
+2018,8,"Nou Barris",50,"les Roquetes","Taxa per mil habitants",64.3498185984342
+2018,8,"Nou Barris",51,"Verdun","Taxa per mil habitants",57.9371474617244
+2018,8,"Nou Barris",52,"la Prosperitat","Taxa per mil habitants",47.8777589134126
+2018,8,"Nou Barris",53,"la Trinitat Nova","Taxa per mil habitants",74.1900353934114
+2018,8,"Nou Barris",54,"Torre Baró","Taxa per mil habitants",36.8055555555556
+2018,8,"Nou Barris",55,"Ciutat Meridiana","Taxa per mil habitants",72.3130730692882
+2018,8,"Nou Barris",56,"Vallbona","Taxa per mil habitants",44.9678800856531
+2018,9,"Sant Andreu",57,"la Trinitat Vella","Taxa per mil habitants",72.5202277494756
+2018,9,"Sant Andreu",58,"Baró de Viver","Taxa per mil habitants",44.6287519747235
+2018,9,"Sant Andreu",59,"el Bon Pastor","Taxa per mil habitants",61.259842519685
+2018,9,"Sant Andreu",60,"Sant Andreu","Taxa per mil habitants",33.48334520686
+2018,9,"Sant Andreu",61,"la Sagrera","Taxa per mil habitants",46.738572162301
+2018,9,"Sant Andreu",62,"el Congrés i els Indians","Taxa per mil habitants",53.5310734463277
+2018,9,"Sant Andreu",63,"Navas","Taxa per mil habitants",46.0743895256648
+2018,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Taxa per mil habitants",61.8189438390612
+2018,10,"Sant Martí",65,"el Clot","Taxa per mil habitants",49.9165585017615
+2018,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Taxa per mil habitants",63.4587649141209
+2018,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Taxa per mil habitants",45.8715596330275
+2018,10,"Sant Martí",68,"el Poblenou","Taxa per mil habitants",49.2849544971044
+2018,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Taxa per mil habitants",46.3385884779726
+2018,10,"Sant Martí",70,"el Besòs i el Maresme","Taxa per mil habitants",95.242133830888
+2018,10,"Sant Martí",71,"Provençals del Poblenou","Taxa per mil habitants",49.138014999513
+2018,10,"Sant Martí",72,"Sant Martí de Provençals","Taxa per mil habitants",41.6682683067461
+2018,10,"Sant Martí",73,"la Verneda i la Pau","Taxa per mil habitants",39.9638273451358

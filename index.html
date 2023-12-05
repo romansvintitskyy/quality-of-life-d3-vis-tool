@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Barcelona Quality of Life Metrics</title>
+    <style>
+
+@font-face {
+    font-family: 'Barcelona'; /* Choose a unique font name */
+    src: url('barcelona-free-font/BarcelonaFont2019-2020.ttf') format('truetype'); /* Adjust the path as needed */
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Reset some default styles */
+body, h2, h3 {
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    height: 31px;
+    width: 22px;
+}
+
+/* Style the header */
+header {
+    display: flex;
+    align-items: center;
+    /* background-color: #f0f0f0; Optional background color for the header */
+    background-color: black;
+    padding: 10px 20px; /* Optional padding for the header */
+    border-bottom: 1px solid #ccc; /* Optional border for the header */
+    color: white;
+}
+
+.header-section {
+    flex: 1; /* Equal width for both sections */
+    text-align: center;
+}
+
+.header-section #plots-title{
+    background-color: white;
+}
+
+#page-title h2,
+#page-title h1,
+#plots-title p {
+    margin: 0; /* Remove any default margins */
+    padding: 0; /* Remove any default padding */
+    color: white;
+}
+
+#page-title {
+    font-family: 'Barcelona', serif;
+}
+
+/* Style the content container */
+#content-container {
+    display: flex;
+    align-items: start; /* Align items at the start of the container */
+    justify-content: center; /* Centers the items horizontally */
+    gap: 0px; /* Adjust the gap as needed */
+    margin-left: -250px;
+}
+
+#map {
+    /* flex: 0 0 700px; flex-grow, flex-shrink, flex-basis */
+    margin-right: 0;
+    margin-left: 0;
+}
+
+#plots {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Adjusted to 2 columns */
+    gap: 20px; /* Gap between the plots */
+    flex: 1; /* Allow plots to fill the available space */
+    max-width: 600px; /* Adjust the maximum width as needed */
+    margin-top: 15px;
+}
+
+.plot-container {
+    height: 220px; /* Adjust height as needed */
+    width: 370px;
+    border: 1px solid black;
+}
+
+.d3-tip {
+    font-size: 12px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    color: #333;
+}
+
+</style>
+</head>
+<body>
+    <header>
+        <div class="header-section" id="page-title">
+            <h1>Barcelona Quality of Life Metrics Tool <img src="coat_of_arms.png"></h1>
+            
+        </div>
+        <div class="header-section" id="plots-title">
+            <p>Select one or several neighborhoods</p>
+        </div>
+    </header>
+    <div id="content-container">
+        
+        <div id="map"> </div>
+        <div id="plots"></div>
+    </div>
+
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.min.js"></script>
+</body>
+</html>
